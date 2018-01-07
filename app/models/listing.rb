@@ -37,7 +37,7 @@ class Listing < ApplicationRecord
         end
       end
     end
-
+    listing.update_attribute(:cached_image_urls, nil)
     listing
   end
 end
