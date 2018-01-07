@@ -1,0 +1,1854 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy-Report-Only: default-src https: data:; script-src https: data: 'unsafe-inline' 'unsafe-eval'; style-src https: data: 'unsafe-inline'; report-uri https://csp.tmcdn.co.nz/report
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: upgrade-insecure-requests
+X-XSS-Protection: 1; report=https://csp.tmcdn.co.nz/report
+Referrer-Policy: no-referrer-when-downgrade
+x-frame-options: Deny
+Set-Cookie: session=%7b4CF1502B-8FEA-4AA8-B849-562F506BC486%7d; domain=trademe.co.nz; path=/; secure; HttpOnly
+P3P: policyref="/w3c/p3p.xml", CP="ALL DSP COR CURa ADMa DEVi CUSi TAIi PSAi PSDi OUR STP"
+P3P: policyref="/w3c/p3p.xml", CP="ALL DSP COR CURa ADMa DEVi CUSi TAIi PSAi PSDi OUR STP"
+Date: Sun, 07 Jan 2018 08:34:33 GMT
+X-Cnection: close
+Content-Length: 103145
+X-UA-Compatible: IE=Edge
+Set-Cookie: TS0141ee74=018feaa5bcd7227e8f960f58d4950c143aca0cf57718a0e8596aeb49e08d50141e6f10c8effe722565d0e8c83e63c258caf311b270; Path=/
+Set-Cookie: TS01ae6471=018feaa5bc12fea19592f2506f2ee7d93d5ea06adc18a0e8596aeb49e08d50141e6f10c8ef7d27252b5394a03c1e9740410d7592463451ebe1d8da693c897fc3036a74492f; path=/; domain=trademe.co.nz
+Vary: Accept-Encoding
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    
+
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta id="SiteTitle_ViewPort" name="viewport" content="width=1024"></meta>
+
+
+<!-- Looking at our source? You should send us your resume. View current vacancies at https://www.trademe.co.nz/about-trade-me/careers -->
+<title>Tawa, 6+ bedrooms, $725 pw | Trade Me Property</title>
+<meta name="description" content="Sunny two storey family home with 6/7 bedrooms (2 double, 4 sm dbl/single, 1 single) and 2 bathrooms." />
+<meta name="apple-itunes-app" content="app-id=550943614, app-argument=tmproperty://www.trademe.co.nz/?listingId=1512467175" /><meta name="msApplication-ID" content="TradeMe.TradeMeProperty" /><meta name="msApplication-PackageFamilyName" content="TradeMe.TradeMeProperty_bwqwgvqkyqz34" />
+<link rel="canonical" href="https://www.trademe.co.nz/property/residential-property-to-rent/auction-1512467175.htm" />
+<link title="Trade Me Search" type="application/opensearchdescription+xml" rel="search" href="/API/OpenSearch.xml" />
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?desktop" />
+
+<script src="/JavaScript/jQuery-bdl?v=Q0zamtzUCaOkcfK9AkRLDh0wYek7PJ2-vkczkFeKvlU1"></script>
+
+
+<script type="text/javascript">
+    if ((parent) && (parent.frames.length > 0)) parent.location.href = self.location.href;
+    
+if(typeof window.TradeMe === 'undefined'){
+  window.TradeMe = {};
+}
+window.TradeMe.BreadCrumbs = 'Trade Me Property|Residential|To Rent';
+window.TradeMe.MemberID = '0';
+
+</script>
+<!--GOOGLE EXPERIMENTS PLACEHOLDER-->
+
+<!-- Google Tag Manager Datalayer -->
+<script type="text/javascript">
+    dataLayer = [{
+  "userId": null,
+  "dpId": null,
+  "email": null,
+  "listingId": 1512467175,
+  "title": "Tawa, 6+ bedrooms, $725 pw",
+  "categoryLevel1": "trade-me-property",
+  "categoryLevel2": "residential",
+  "categoryLevel3": "to-rent",
+  "mcat": "350-5748-4233-",
+  "newOrUsed": "used",
+  "auctionOrClassified": "classified",
+  "sellerId": "VJt2MydYmHe3HojxuzueyWmI8cqSWNG35WdSWrnG2RE=",
+  "sellerRegion": "Wellington",
+  "sellerDistrict": "Porirua",
+  "sellerInTrade": "true",
+  "isBuyNow": "false",
+  "isPayNow": "false",
+  "isAfterpay": "false",
+  "buyNowPrice": 0.0,
+  "mustPickUp": "false",
+  "freeShipping": "false",
+  "url": "/Trade-Me-Property/Residential/To-Rent/auction-listing-page",
+  "isExpired": false,
+  "hasVideo": false,
+  "hasPhotos": true,
+  "tracked": true,
+  "pageName": "property_listing_page",
+  "isFeatured": true,
+  "isSuperFeatured": false,
+  "hasGtinCode": null,
+  "wasPrice": 0.0,
+  "propertyType": "House",
+  "propertyRegion": "Wellington",
+  "propertyDistrict": "Wellington",
+  "propertySuburb": "Tawa",
+  "propertyMapShown": true,
+  "propertyMapHasSchoolsView": true,
+  "propertyMapHasBoundaryView": false,
+  "propertyMapHasStreetView": true,
+  "jobsAgent": false
+}];dataLayer.push({'optOut': false});
+</script>
+<!-- End Google Tag Manager Datalayer -->
+
+<link rel="stylesheet" type="text/css" href="/Styles/Common-bdl?v=UZ1zSwfx4XQLXDbI8-HA0uuZzpDwyrEcA0eiF0ZDqLs1" /><link rel="stylesheet" type="text/css" href="/Styles/old-site-wrapper-bdl?v=6MEJxZY8xv3hlAcqZwq3J_ryWU7FykwqihtZoetEMNk1" /><link rel="stylesheet" type="text/css" href="/Styles/Property-bdl?v=5kcHGzMZzPg9tm54eIfLFmEpTr6L9MHd0Pypb4fT8GA1" /><style type="text/css">.listingAd {padding-top:0 !important;}</style><style type="text/css">.MapClassBase { width: 90%;} </style><style type="text/css">.MapContainer { height: 375px; background:#99B3CC;} </style><meta http-equiv="imagetoolbar" content="no"></meta>
+    <meta property="og:site_name" content="Trade Me" /><meta property="og:description" content="Sunny two storey family home with 6/7 bedrooms (2 double, 4 sm dbl/single, 1 single) and 2 bathrooms." /><meta property="og:title" content="Tawa, 6+ bedrooms, $725 pw" /><meta property="og:type" content="product" /><meta property="og:url" content="https://www.trademe.co.nz/property/residential-property-to-rent/auction-1512467175.htm" /><meta property="og:image" content="https://trademe.tmcdn.co.nz/photoserver/tq/707081071.jpg" /><meta property="fb:app_id" content="317596441952356" />
+    
+    <link href="/Styles/Property/PropertyListingPage-bdl?v=tCZ8rZZgspXgUm5CqQncThUi-iDf85I1-fbYtYgKEsY1" rel="stylesheet"/>
+
+    <link href="/Styles/Property/PropertyMap-bdl?v=wKQMqp0H28UoWAnGqAoQqdv_mCk2CxNn6NLEqFxsiG41" rel="stylesheet"/>
+
+    <link href="/Styles/Property/PropertyMapV2-bdl?v=MSiWH5I03qP56Y6Ou4v9ArpDoZOTk4LeMVPLOINvk6Q1" rel="stylesheet"/>
+
+    <link rel="stylesheet" type="text/css" href="/Styles/PrintListing-bdl?v=tHTJXgmLKK82QXeyKRoZAhNpQn_nsq9XVM0mA7BRgF81" media="print" />
+    <link href="/Styles/EmbeddedContentViewPort-bdl?v=C04oO6xFuL1ucMX-_cabRTQDgVc1ZBJuk30aiPfe_hg1" rel="stylesheet"/>
+
+    <script src="/Javascript/jquery-bdl?v=Q0zamtzUCaOkcfK9AkRLDh0wYek7PJ2-vkczkFeKvlU1"></script>
+
+    <script src="/Javascript/jquery.cookie-bdl?v=XA5kyy4KTF4g4IOETDYeFmrdjcwgjGmVMZfJ5FVrE-w1"></script>
+
+    
+</head>
+<body>
+    <!--new page test-->
+    
+    
+    <script type="text/javascript">
+        function triggerFloodlight() {
+            var axel = Math.random() + "";
+            var a = axel * 10000000000000;
+            $('body').append('<iframe src="https://fls.doubleclick.net/activityi;src=;type=;cat=;ord=' + a +'?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+        }
+
+        var floodlightWithProtocolModulef2e2a584877f425a904fd0c5d80d80fd = (function ($) {
+
+            var protocol = '',
+            subdomain = '',
+            src = '',
+            type = '',
+            cat = '',
+            custom = '';
+
+            var elementsToBind =  [];
+
+            // generate the random number
+            var axel = Math.random() + "";
+            var ord = axel * 10000000000000;
+            var floodLinkUriTemplate = "{protocol}://{subdomain}fls.doubleclick.net/activityi;src={src};type={type};cat={cat};ord={ord}{custom}?";
+            // If protocol is empty, use http by default
+            if (protocol.length === 0) {
+                protocol = "http";
+            }
+            var floodLinkUri = floodLinkUriTemplate.replace("{protocol}", protocol);
+            // If subdomain is not empty but does not end with a .(dot) then add it
+            if (subdomain.length > 0 && subdomain.indexOf(".", subdomain.length - 1) === -1) {
+                subdomain = subdomain + ".";
+            }
+            floodLinkUri = floodLinkUri.replace("{subdomain}", subdomain);
+            floodLinkUri = floodLinkUri.replace("{src}", src);
+            floodLinkUri = floodLinkUri.replace("{type}", type);
+            floodLinkUri = floodLinkUri.replace("{cat}", cat);
+            floodLinkUri = floodLinkUri.replace("{ord}", ord);
+            // If custom is defined and has value but does not start with a ;(semicolon) then add it
+            if (custom.length > 0 && custom.indexOf(";", 0) !== 0) {
+                custom = ";" + custom;
+            }
+            floodLinkUri = floodLinkUri.replace("{custom}", custom);
+
+            // bind elements to the event
+            $.each(elementsToBind, function(index, elementId) {
+                $("[id$='" + elementId + "']").live('click', function () { floodlightWithProtocolModulef2e2a584877f425a904fd0c5d80d80fd.load(); });
+            });
+            
+            return {
+                load: function () {
+                    try {
+                        $('<iframe>').attr('width', '1').attr('height', '1').attr('frameborder', '0').attr('style', 'display:none').attr('src', floodLinkUri).appendTo('body');
+                    } catch (e) {
+                        console.warn(e);
+                    } 
+                }
+            };
+        })(jQuery);
+
+        
+
+    </script>
+
+
+    
+    <script type="text/javascript">
+        function triggerFloodlight() {
+            var axel = Math.random() + "";
+            var a = axel * 10000000000000;
+            $('body').append('<iframe src="https://fls.doubleclick.net/activityi;src=;type=;cat=;ord=' + a +'?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+        }
+
+        var floodlightWithProtocolModule7198a8bec2164460b43f1cd126cd93e0 = (function ($) {
+
+            var protocol = '',
+            subdomain = '',
+            src = '',
+            type = '',
+            cat = '',
+            custom = '';
+
+            var elementsToBind =  [];
+
+            // generate the random number
+            var axel = Math.random() + "";
+            var ord = axel * 10000000000000;
+            var floodLinkUriTemplate = "{protocol}://{subdomain}fls.doubleclick.net/activityi;src={src};type={type};cat={cat};ord={ord}{custom}?";
+            // If protocol is empty, use http by default
+            if (protocol.length === 0) {
+                protocol = "http";
+            }
+            var floodLinkUri = floodLinkUriTemplate.replace("{protocol}", protocol);
+            // If subdomain is not empty but does not end with a .(dot) then add it
+            if (subdomain.length > 0 && subdomain.indexOf(".", subdomain.length - 1) === -1) {
+                subdomain = subdomain + ".";
+            }
+            floodLinkUri = floodLinkUri.replace("{subdomain}", subdomain);
+            floodLinkUri = floodLinkUri.replace("{src}", src);
+            floodLinkUri = floodLinkUri.replace("{type}", type);
+            floodLinkUri = floodLinkUri.replace("{cat}", cat);
+            floodLinkUri = floodLinkUri.replace("{ord}", ord);
+            // If custom is defined and has value but does not start with a ;(semicolon) then add it
+            if (custom.length > 0 && custom.indexOf(";", 0) !== 0) {
+                custom = ";" + custom;
+            }
+            floodLinkUri = floodLinkUri.replace("{custom}", custom);
+
+            // bind elements to the event
+            $.each(elementsToBind, function(index, elementId) {
+                $("[id$='" + elementId + "']").live('click', function () { floodlightWithProtocolModule7198a8bec2164460b43f1cd126cd93e0.load(); });
+            });
+            
+            return {
+                load: function () {
+                    try {
+                        $('<iframe>').attr('width', '1').attr('height', '1').attr('frameborder', '0').attr('style', 'display:none').attr('src', floodLinkUri).appendTo('body');
+                    } catch (e) {
+                        console.warn(e);
+                    } 
+                }
+            };
+        })(jQuery);
+
+        
+
+    </script>
+
+
+    
+    <script type="text/javascript">
+        function triggerFloodlight() {
+            var axel = Math.random() + "";
+            var a = axel * 10000000000000;
+            $('body').append('<iframe src="https://fls.doubleclick.net/activityi;src=;type=;cat=;ord=' + a +'?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+        }
+
+        var floodlightWithProtocolModule1a1e71e89ef24a03bd159637d62b926f = (function ($) {
+
+            var protocol = '',
+            subdomain = '',
+            src = '',
+            type = '',
+            cat = '',
+            custom = '';
+
+            var elementsToBind =  [];
+
+            // generate the random number
+            var axel = Math.random() + "";
+            var ord = axel * 10000000000000;
+            var floodLinkUriTemplate = "{protocol}://{subdomain}fls.doubleclick.net/activityi;src={src};type={type};cat={cat};ord={ord}{custom}?";
+            // If protocol is empty, use http by default
+            if (protocol.length === 0) {
+                protocol = "http";
+            }
+            var floodLinkUri = floodLinkUriTemplate.replace("{protocol}", protocol);
+            // If subdomain is not empty but does not end with a .(dot) then add it
+            if (subdomain.length > 0 && subdomain.indexOf(".", subdomain.length - 1) === -1) {
+                subdomain = subdomain + ".";
+            }
+            floodLinkUri = floodLinkUri.replace("{subdomain}", subdomain);
+            floodLinkUri = floodLinkUri.replace("{src}", src);
+            floodLinkUri = floodLinkUri.replace("{type}", type);
+            floodLinkUri = floodLinkUri.replace("{cat}", cat);
+            floodLinkUri = floodLinkUri.replace("{ord}", ord);
+            // If custom is defined and has value but does not start with a ;(semicolon) then add it
+            if (custom.length > 0 && custom.indexOf(";", 0) !== 0) {
+                custom = ";" + custom;
+            }
+            floodLinkUri = floodLinkUri.replace("{custom}", custom);
+
+            // bind elements to the event
+            $.each(elementsToBind, function(index, elementId) {
+                $("[id$='" + elementId + "']").live('click', function () { floodlightWithProtocolModule1a1e71e89ef24a03bd159637d62b926f.load(); });
+            });
+            
+            return {
+                load: function () {
+                    try {
+                        $('<iframe>').attr('width', '1').attr('height', '1').attr('frameborder', '0').attr('style', 'display:none').attr('src', floodLinkUri).appendTo('body');
+                    } catch (e) {
+                        console.warn(e);
+                    } 
+                }
+            };
+        })(jQuery);
+
+        
+
+    </script>
+
+
+    
+    
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMC2M2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KMC2M2' );
+</script>
+<!-- End Google Tag Manager --> 
+
+    <div id="top-of-page" class="PageOuter unknown0">
+        
+<div class="sat-nav">
+	<div id="SiteHeader_Sitenav_SiteNavDiv" class="wrap interior">
+        <div id="SiteHeader_Sitenav_bannerAdDiv" class="ad-banner-leaderboard">
+            
+<div id="Banner728x90_896_wrapper" class="tm-display-ad " style="max-width:728px;min-width:728px;max-height:90px;min-height:90px;" tm-sizes="[[728, 90]]"></div>
+
+        </div>
+        
+		<h3 class="hide">Satellite sites</h3>
+		<ul id="SiteHeader_Sitenav_interiorSatNav" class="nav nav-tabs sat-nav-tabs smaller-banner-ad-gap">
+		    
+			<li class="default-selection"><a href="/" id="SiteHeader_Sitenav_homeSatNavLink">Trade Me<span>Where Kiwis buy & sell</span></a></li>
+            <li><a href="http://www.lifedirect.co.nz/?utm_source=trademe&utm_medium=navbar&utm_campaign=homepage" id="SiteHeader_Sitenav_lifeDirectNavLink">LifeDirect<span>Compare insurance</span></a></li>
+            <li><a href="https://www.trademeinsurance.co.nz?utm_source=TradeMe&utm_medium=NavBar&utm_content=TradeMe&utm_campaign=TradeMe_header" id="SiteHeader_Sitenav_mainTmiNavbarLink">Trade Me Insurance<span>Car, house &amp; contents</span></a></li>
+		    <li><a href="http://www.holidayhouses.co.nz/?utm_source=trademe&utm_medium=navbar&utm_campaign=homepage" id="SiteHeader_Sitenav_holidayHousesSatNavLink">Holiday Houses<span>For better places to stay</span></a></li>
+            <li><a href="http://www.findsomeone.co.nz/?utm_source=trademe&utm_medium=navbar&utm_campaign=homepage" id="SiteHeader_Sitenav_findSomeoneSatNavLink">FindSomeone<span>Dating & personals</span></a></li>
+			<li id="SiteHeader_Sitenav_mainTravelBugLinkListItem"><a href="http://www.travelbug.co.nz/?utm_source=Trade%2BMe&utm_medium=navbar&utm_campaign=non%2Bhomepage" id="SiteHeader_Sitenav_travelBugSatNavLink">Travelbug<span>Hotels &amp; motels</span></a></li>
+            <li id="SiteHeader_Sitenav_mainMotorWebSatNavLink"><a href="http://www.motorweb.co.nz/?referral=trademe&utm_source=trademe&utm_medium=text-link&utm_content=free-vehicle-reports&utm_campaign=trademe-header" id="SiteHeader_Sitenav_motorWebLink">MotorWeb<span>Vehicle reports</span></a></li>
+            <li id="SiteHeader_Sitenav_mainHarmoneyLinkListItem">
+                <a id="harmoneyLink" href="https://www.harmoney.co.nz/?utm_source=TradeMe&utm_medium=NavBar&utm_content=TradeMe&utm_campaign=TradeMe_Harmoney_2015" >Harmoney<span>Personal loans</span></a>
+            </li>
+            
+            <li id="SiteHeader_Sitenav_MoreDropDown" class="more">
+                        <a href="javascript:void(0)" id="SiteHeader_Sitenav_MoreDropDownLink" style="display:none">More<span></span><div class="screen"></div></a>
+                        <div class="modal-active-ext">
+                            <ul class="blank">
+                                <li><a href="https://www.travelbug.co.nz/?utm_source=TradeMe&utm_medium=navbar&utm_campaign=homepage" id="SiteHeader_Sitenav_travelBugMoreDropDownLink">Travelbug</a></li>
+                                <li><a href="http://www.motorweb.co.nz/?referral=trademe&utm_source=trademe&utm_medium=text-link&utm_content=free-vehicle-reports&utm_campaign=trademe-header" id="SiteHeader_Sitenav_motorWebMoreDropDownLink">MotorWeb</a></li>                                
+                                <li><a href="https://www.harmoney.com/?utm_source=TradeMe&utm_medium=NavBar&utm_content=TradeMe&utm_campaign=TradeMe_Harmoney_2015" id="SiteHeader_Sitenav_harmoneyMoreDropDownLink">Harmoney</a></li>
+                            </ul>
+                        </div>
+                    </li>
+		        </ul>
+            </div>
+        </div>
+
+            <div class="page-body">  
+                <div id="container" class="wrapper">    
+                    
+
+<div class="site-header" role="banner"> 
+        <h1>
+            <a href="/" id="SiteHeader_SiteTabs_homeLink">
+                <img src="/images/new-brand-2016/common/tm-logo-2016-594x116-v1.png" id="SiteHeader_SiteTabs_kevin" title="Trade Me - Where Kiwis buy and sell" alt="Buy online and sell with Trade Me" class="site-header-logo" />
+            </a>
+            
+        </h1>
+        
+        <div class="time">9:34 pm, 7 Jan</div>
+        <nav class="site-header-links">
+            <h1 class="hide">Site navigation</h1>
+            <ul class="nav header-links">
+                <li id="BrowseDropDown" class="browse">
+                    <a href="/browse" id="SiteHeader_SiteTabs_browseDropDownLink" class="beta header-link-btn modal-open" data-trackingid="57307">Browse<span></span><div class="screen"></div></a>
+                    <div class="modal-active-ext">
+                        <div class="separated-action">
+                            <a class="nav-action-link category-directory" href="/browse" type="submit">View category directory<span class="action-link-arrow"></span></a>
+                        </div>
+                        <div class="modal-inner">
+                            
+<div class="line">
+    <div class="unit size1of3">
+        <ul class="blank categories-list">
+            <li><a href="/antiques-collectables">Antiques &amp; collectables</a></li>
+            <li><a href="/art">Art</a></li>
+            <li><a href="/baby-gear">Baby gear</a></li>
+            <li><a href="/books">Books</a></li>
+            <li><a href="/building-renovation">Building &amp; renovation</a></li>
+            <li><a href="/business-farming-industry">Business &amp; industry</a></li>
+            <li><a href="/motors" id="SiteHeader_SiteTabs_BrowseDropDown_motorsLink">Cars, bikes &amp; boats</a></li>
+            <li><a href="/Link.aspx?i=73305">Clothing &amp; fashion</a></li>
+            <li><a href="/computers">Computers</a></li>
+            <li><a href="/crafts">Crafts</a></li>
+            <li><a href="/electronics-photography">Electronics &amp; photography</a></li>
+        </ul>
+    </div>
+    <div class="unit size1of3">
+        <ul class="blank categories-list">
+            <li><a href="/business-farming-industry/farming-forestry">Farming</a></li>
+            <li><a href="/flatmates-wanted">Flatmates wanted</a></li>
+            <li><a href="/gaming">Gaming</a></li>
+            <li><a href="/health-beauty">Health &amp; beauty</a></li>
+            <li><a href="/home-living">Home &amp; living</a></li>
+            <li><a href="/jewellery-watches">Jewellery &amp; watches</a></li>
+            <li><a href="/jobs" id="SiteHeader_SiteTabs_BrowseDropDown_jobsLink">Jobs</a></li>
+            <li><a href="/mobile-phones">Mobile phones</a></li>
+            <li><a href="/Movies-TV/index.htm">Movies &amp; TV</a></li>
+            <li><a href="/music-instruments">Music &amp; instruments</a></li>
+            <li><a href="/pets-animals">Pets &amp; animals</a></li>
+        </ul>
+    </div>
+    <div class="unit size1of3 last-unit">
+        <ul class="blank categories-list">
+            <li><a href="/pottery-glass">Pottery &amp; glass</a></li>
+            <li><a href="/property" id="SiteHeader_SiteTabs_BrowseDropDown_realEstateLink">Real estate</a></li>
+            <li><a href="/services" id="SiteHeader_SiteTabs_BrowseDropDown_servicesLink">Services</a></li>
+            <li><a href="/sports">Sports</a></li>
+            <li><a href="/toys-models">Toys &amp; models</a></li>
+            <li><a href="/travel-events-activities" id="SiteHeader_SiteTabs_BrowseDropDown_travelLink">Travel, events &amp; activities</a></li>
+            <li class="list-break"></li>
+            <li><a href="/stores" id="SiteHeader_SiteTabs_BrowseDropDown_storesLink">Stores</a></li>
+            <li><a href="/listings-onedollar.htm" id="SiteHeader_SiteTabs_BrowseDropDown_oneDollarReserveLink">$1 reserve</a></li>
+            <li><a href="/listings-closing.htm" id="SiteHeader_SiteTabs_BrowseDropDown_closingSoon">Closing soon</a></li>
+            <li id="SiteHeader_SiteTabs_BrowseDropDown_lastchancemenu">
+                <a href="https://sell.trademe.co.nz/lastchance">Last chance</a>
+            </li>
+            <li><a href="/listings-hot.htm" id="SiteHeader_SiteTabs_BrowseDropDown_latestListingsLinks">Hot listings</a></li>
+        </ul>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                </li>
+                <li id="SellDropDown" class="sell"><a href="/Sell/Default.aspx" id="SiteHeader_SiteTabs_sellLink" class="beta header-link-btn modal-open" data-trackingid="69868" data-CurrentCid="4233" data-Memberid="0">Sell<span></span><div class="screen"></div></a>
+                    <div class="modal-active-ext">
+                        <div id="SiteHeader_SiteTabs_listInThisCategoryDiv" class="sell-in-this-category">
+                            
+                            <ul class="blank">
+						            <li><a href="https://www.trademe.co.nz/link.aspx?i=69866&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=listInThisCategory&cid=4233&rptpath=350-&group=PROPERTY" id="SiteHeader_SiteTabs_listInThisCategoryLink" class="nav-action-link nav-action-title-link" type="submit">List in <b>'To Rent'</b></a></li>
+                                    <li class="grey-sub-text "><span id="SiteHeader_SiteTabs_listInThisCategoryBreadBrumbs">Trade Me Property &gt; Residential &gt; To Rent</span></li>
+                                </ul>
+                            
+                        </div>
+                        <div class="modal-inner">
+                            <div class="unit size1of1">
+                                <h3>List a...</h3>
+                                <ul class="blank">
+						            <li><a href="https://www.trademe.co.nz/link.aspx?i=69859&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=general" id="SiteHeader_SiteTabs_sellGeneralItem">General item</a></li>
+                                    <li class="grey-sub-text "><a href="https://www.trademe.co.nz/link.aspx?i=69859&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=general" id="SiteHeader_SiteTabs_sellGeneralItemSubText">Success fees for sold items only.</a></li>
+						            <li><a href="https://www.trademe.co.nz/link.aspx?i=69860&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=motors" id="SiteHeader_SiteTabs_sellMotors">Car, motorbike or boat</a></li>
+                                    <li class="grey-sub-text "><a href="https://www.trademe.co.nz/link.aspx?i=69860&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=motors" id="SiteHeader_SiteTabs_sellMotorsSubText">$9.99 - $99.99 until sold.</a></li>
+                                    <li><a href="https://www.trademe.co.nz/link.aspx?i=69861&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=property" id="SiteHeader_SiteTabs_sellProperty">Property</a></li>
+                                    <li class="grey-sub-text "><a href="https://www.trademe.co.nz/link.aspx?i=69861&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=property" id="SiteHeader_SiteTabs_sellPropertySubText">$359 - $599 until sold. Rentals $99 - $189.</a></li>
+                                    <li><a href="https://www.trademe.co.nz/link.aspx?i=69862&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=jobs" id="SiteHeader_SiteTabs_sellJob">Job</a></li>
+                                    <li class="grey-sub-text "><a href="https://www.trademe.co.nz/link.aspx?i=69862&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=jobs" id="SiteHeader_SiteTabs_sellJobSubText">$205.85 for 30 days.</a></li>
+                                    <li><a href="https://www.trademe.co.nz/link.aspx?i=69863&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=flatmates" id="SiteHeader_SiteTabs_sellFlatmatesWanted">Flatmates wanted</a></li>
+                                    <li class="grey-sub-text "><a href="https://www.trademe.co.nz/link.aspx?i=69863&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=flatmates" id="SiteHeader_SiteTabs_sellFlatmatesWantedSubText">$9.90 until you find them.</a></li>
+                                    <li><a href="https://www.trademe.co.nz/link.aspx?i=69864&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=service" id="SiteHeader_SiteTabs_sellService">Service</a></li>
+                                    <li class="grey-sub-text "><a href="https://www.trademe.co.nz/link.aspx?i=69864&currentCid=4233&wasLoggedIn=False&listInThisCategoryShown=True&fromLink=service" id="SiteHeader_SiteTabs_sellServiceSubText">$39 for 90 days.</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>                  
+                </li>
+                <li id="MyTradeMeDropDown" class="mytrademe"><a href="/mytrademe" id="SiteHeader_SiteTabs_myTradeMeDropDownLink" class="beta header-link-btn mytrademe-open" data-trackingid="57308">My Trade Me<span></span><div class="screen"></div></a>
+                    <div class="modal-active-ext mytrademe-hover">
+                        <div class="separated-action">
+                            <a href="/MyTradeMe/Default.aspx" id="SiteHeader_SiteTabs_mtmViewMtmLink" class="nav-action-link" type="submit">View My Trade Me<span class="action-link-arrow"></span></a>
+                        </div>
+                        <div class="modal-inner">
+                            <div id="mtm-buying" class="unit unit-30-percent" style="display: none;">
+                                <h3>
+                                    Buying</h3>
+                                <ul class="blank">
+                                    <li><a href="/MyTradeMe/Buy/Watchlist.aspx" id="SiteHeader_SiteTabs_mtmWatchlistLink">Watchlist</a><span class="count" id="watchlistCount"></span></li>
+                                    <li><a href="/MyTradeMe/Buy/Won.aspx" id="SiteHeader_SiteTabs_mtmWonLink">Won</a><span class="count" id="wonCount"></span></li>
+                                    <li><a href="/MyTradeMe/Buy/Lost.aspx" id="SiteHeader_SiteTabs_mtmLostLink">Lost</a><span class="count" id="lostCount"></span></li>
+                                </ul>
+                                <ul class="blank">
+                                    <li><a href="/MyTradeMe/Favourites.aspx" id="SiteHeader_SiteTabs_mtmFavouritesLink">Favourites</a></li>
+                                    <li><a href="/Listings/recently-viewed.htm" id="SiteHeader_SiteTabs_mtmRecentlyViewedLink">Recently viewed</a></li>
+                                </ul>
+                            </div>
+                             <div id="agent-listings" class="unit unit-30-percent"  style="display: none;">
+                                <h3>Listings</h3>
+                                <ul class="blank">
+                                    <li><a href="/MyTradeMe/Sell/Current.aspx" id="SiteHeader_SiteTabs_mtmCurrentLinkAgent">Current</a><span class="count" id="agentCurrentCount"></span></li>
+						            <li><a href="/MyTradeMe/Sell/Unsold.aspx" id="SiteHeader_SiteTabs_mtmUnsoldLinkAgent">Expired</a><span class="count" id="agentExpiredCount"></span></li>
+                                </ul>
+                                <div class="property-agent-info" style="display: block;">
+                                    <ul class="blank">
+                                        <li><a href="/MyTradeMe/Sell/Current.aspx?filter=closing_today&cmdFilter_=Go&existing_page=1&existing_filter=all">Closing today</a><span class="count" id="agentClosingTodayCount"></span></li>
+                                    </ul>
+						            <ul class="blank">
+                                        <li><a href="/MyTradeMe/Buy/Watchlist.aspx" id="SiteHeader_SiteTabs_mtmWatchlistLinkAgent">Watchlist</a><span class="count" id="agentWatchlistCount"></span></li>
+						                <li><a href="/MyTradeMe/Favourites.aspx" id="SiteHeader_SiteTabs_mtmFavouritesLinkAgent">Favourites</a></li>
+                                        <li><a href="/Listings/recently-viewed.htm" id="SiteHeader_SiteTabs_mtmRecentlyViewedLinkAgent">Recently viewed</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div id="mtm-selling" class="unit unit-33-percent" style="display: none;">
+                                <h3>
+                                    Selling</h3>
+                                <ul class="blank">
+                                    <li><a href="/MyTradeMe/Sell/Current.aspx" id="SiteHeader_SiteTabs_mtmCurrentLink">Items I'm selling</a><span class="count" id="sellCurrentCount"></span></li>
+                                    <li><a href="/MyTradeMe/Sell/Sold.aspx" id="SiteHeader_SiteTabs_mtmSoldLink">Sold</a><span class="count" id="soldCount"></span></li>
+                                    <li><a href="/MyTradeMe/Sell/Unsold.aspx" id="SiteHeader_SiteTabs_mtmUnsoldLink">Unsold</a><span class="count" id="unsoldCount"></span></li>
+                                    <li><a id="mtmMyProductsLink" href="https://sell.trademe.co.nz/myproducts">My products</a></li>
+                                </ul>
+                                <ul class="blank">
+                                    <li><a href="/MyTradeMe/WeeklySummary.aspx">Sales summary</a></li>
+                                    <li><a href="/MyTradeMe/BuyerEmail/Edit.aspx">Payment instructions</a></li>
+                                </ul>
+                            </div>
+                            <div id="agent-reporting" class="unit unit-33-percent"  style="display: none;">
+                                <h3>Reporting</h3>
+                                <ul class="blank">
+                                    <li><a href="/MyTradeMe/AgentSummary.aspx?summaryType=" id="SiteHeader_SiteTabs_agentMonthlySummary">Monthly summary</a></li>
+                                    <li class="property-agent-info"><a href="/MyTradeMe/Export/AgentReports.aspx?reportType=Property">Export agent reports</a></li>
+                                    <li class="job-agent-info" style="display: none;"><a href="/MyTradeMe/Export/AgentReports.aspx?reportType=Job">Export job reports</a></li>
+                                </ul>
+                                <p id="currentSubscriptions" class="property-agent-info">Current subscription listings:<span class="count" id="agentPropertySubscriptionCount"></span></p>
+                                <p id="agentListingsThisMonth">Listings this month:<span class="count" id="agentListingsThisMonthCount"></span><span id="agentFreeFeaturesThisMonthCount"></span></p>
+                                <p id="monthlyPlan" class="job-agent-info" style="display: none;">Monthly plan: <span class="count" id="agentJobPlanCount"></span><span id="agentFreeListingsThisMonthCount"></span></p>
+                                <p class="job-agent-info prepaid-agent-info" style="display: none;">Prepaid listings remaining: <span class="count" id="prepaidAgentCount"></span></p>
+                                <p class="job-agent-info prepaid-agent-info" style="display: none;">Prepaid branding remaining: <span class="count" id="prepaidBrandingAgentCount"></span></p>
+                                <p class="job-agent-info prepaid-agent-info" style="display: none;">Prepaid features remaining: <span class="count" id="prepaidFeaturesAgentCount"></span></p>
+                                <p class="job-agent-info prepaid-agent-info" style="display: none;"><a href="/Browse/buypacks.aspx?BrandedArea=Jobs">Buy a job pack</a></p>          
+                            </div>
+
+                            <div id="mtm-account-info" class="unit unit-37-percent"  style="display: none;">
+                                <h3>Account</h3>
+                                <ul class="blank">
+                                    <li id="username" class="username"></li>
+                                </ul>
+                                <ul class="blueFish-mtm-dropdown-balance blank" style="display: none;" id="mytrademe-bluefish-wrapper">                                    
+                                    <li>
+                                        <img src="/Images/Payments/ping-logo.svg" class="pinglogo-mini">
+                                    </li>
+                                    <li>
+                                        <img src="/Images/Payments/ping-balance.svg" class="mini-badge">
+                                        <span class="ping-balance" id="blueFishBalance"></span>                                        
+                                        <a id="managePing" class="manage-ping-link" href="/MyTradeMe/Ping/">Manage</a>
+                                    </li>
+                                </ul>
+                                <ul class="blank mtm-account-info">
+                                    <li><a class="account-title" href="/MyTradeMe/AccountStatement.aspx">Trade Me account</a></li>
+                                    <li><span class="balance" id="balance"></span>
+                                    <a class="tm-credit-link" href="/Payments/ChooseMethod.aspx">Add credit</a></li>                                </ul>
+                                <ul class="blank paynow-info" style="display: none;" id="mytrademe-paynow-wrapper">
+                                    <li><a class="account-title" href="/MyTradeMe/PayNow/Statement.aspx">Pay Now &amp; Afterpay</a></li>
+						            <li>
+                                        <span class="balance" id="payNowBalance"></span>
+                                        <a class="pn-statement-link" href="/MyTradeMe/PayNow/Statement.aspx">View statement</a>
+						            </li>
+                                      
+                                </ul>
+                            </div>
+                        </div>
+                        
+<div class="separated-action tradevine-promotion" style="display:none;">
+    <strong class="tradevine-heading">Professional seller?</strong>
+    <div class="tradevine-body">
+        <div>Try My Products, a free Trade Me tool that helps you manage your listings. </div>
+        <a href="https://sell.trademe.co.nz/myproducts">
+            <span>Get started</span>
+        </a>
+    </div>
+</div>
+                    </div>
+                </li>
+                <li id="CommunityDropDown" class="community"><a class="beta header-link-btn  modal-open" href="/community">Community<span></span><div class="screen"></div></a>
+                    <div class="modal-active-ext">
+                        <div class="separated-action">
+                            <a class="nav-action-link" href="/Community/" type="submit">View community<span class="action-link-arrow"></span></a>
+                        </div>
+                        <div class="modal-inner">
+                            <div class="unit size1of1">
+                                <ul class="blank">
+						            <li><a href="/community/announcements">Announcements</a></li>
+						            <li><a href="/Community/MessageBoard/Default.aspx">Message board</a></li>
+                                    <li><a href="/help">Help</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+        <div class="login-area">
+            
+            
+                <div id="NotLoggedInDiv" class="not-logged-in">
+                    <a href="/Members/Register.aspx">Register</a><a id="LoginLink" href="/Members/Login.aspx?url=%2fproperty%2fresidential-property-to-rent%2fauction-1512467175.htm" class="btn login-button">Log in</a>
+                </div>      
+            
+       </div>
+    </div>
+    
+    <div id="SiteNavigation" class="site-navigation">
+        <script src="/Javascript/CookieManager-bdl?v=kRryoz--ZrPeC2NN6IPgkeOJfOvwBvFR72HZu7Ec65k1"></script>
+
+
+
+<div id="SiteHeader_SiteTabs_BarOfSearch_SearchBarDiv" class="search-bar plus-sub-nav">
+    <div id="SiteHeader_SiteTabs_BarOfSearch_SearchBarInnerDiv" class="search-bar-inner">   
+        <form id="generalSearch" name="generalSearch" method="get" action="/Browse/SearchResults.aspx" onsubmit="onSubmitHandler()" autocomplete="off" class="inline search-bar-form ">
+            <h4 class="hide">Search Trade Me</h4>
+			<div class="field search-filters">
+                <div id="SiteHeader_SiteTabs_BarOfSearch_mainSearchControl" class="main-search-control main-search-control-small">
+                    <div class="main-search-left">
+                        <input type="text" name="searchString" id="searchString" value="" class="default-input input-main-search text ac_input" placeholder="Search" autocomplete="off"/>
+                        
+                        <input type="hidden" value="Search" name="type" />
+                    </div>
+                    <div class="main-search-right">
+                        <span class="drop-container">
+		                        <span class="drop-label">in <strong>to rent</strong></span>
+		                    <span class="drop-arrow"></span>
+                            <select id="SearchType" name="searchType" class="drop-select" data-search-bar="true">
+<option value="all">All categories</option>
+<option value="350">Real estate</option>
+<option value="5748">&nbsp;Residential</option>
+<option value="4233"  selected="selected">&nbsp;&nbsp;To Rent</option>
+<option disabled="disabled"></option>
+<option value="187">Antiques &amp; collectables</option>
+<option value="339">Art</option>
+<option value="351">Baby gear</option>
+<option value="193">Books</option>
+<option value="5964">Building &amp; renovation</option>
+<option value="10">Business, farming &amp; industry</option>
+<option value="1">Cars, bikes &amp; boats</option>
+<option value="153">Clothing &amp; Fashion</option>
+<option value="2">Computers</option>
+<option value="341">Crafts</option>
+<option value="124">Electronics &amp; photography</option>
+<option value="395">Farming</option>
+<option value="2975">Flatmates wanted</option>
+<option value="202">Gaming</option>
+<option value="4798">Health &amp; beauty</option>
+<option value="4">Home &amp; living</option>
+<option value="246">Jewellery &amp; watches</option>
+<option value="5000">Jobs</option>
+<option value="344">Mobile phones</option>
+<option value="3">Movies &amp; TV</option>
+<option value="343">Music &amp; instruments</option>
+<option value="9425">Pets &amp; animals</option>
+<option value="340">Pottery &amp; glass</option>
+<option value="350">Real estate</option>
+<option value="9334">Services</option>
+<option value="5">Sports</option>
+<option value="347">Toys &amp; models</option>
+<option value="9374">Travel, events &amp; activities</option>
+<option disabled="disabled"></option>
+<option value="Help">Site help</option>
+<option value="Seller">Members</option>
+
+</select>  
+                        </span>
+                    </div>
+                </div>
+			</div>
+            <input type="hidden" id="sessionRegion" name="user_region" value="100"/>
+            <input type="hidden" id="sessionDistrict" name="user_district" value="0"/>
+            
+            <div class="field field-right">
+                <button type="submit" value="Search" class="btn btn-trademe"><span class="icon-search-large"></span></button>                                            
+            </div>
+        </form>
+        <a href="/MyTradeMe/SelectRegion.aspx?url=%2fBrowse%2fListing.aspx%3fid%3d1512467175" id="SiteHeader_SiteTabs_BarOfSearch_ChangeRegionLink" class="ChangeRegionLink" style="display:none;">Change region</a>
+        <div id="search-options-dropdown" class="search-advanced">
+            <a href="javascript:void(0)" data-trackingid="57422" data-container="search-options-dropdown" class="btn search-options modal-open"><span></span></a>
+            <div class="modal-active-ext">
+                <p><a href="/Browse/AdvancedSearch.aspx?advanced=true&amp;empty=true&amp;cid=4233&amp;searchstring=&amp;searchregion=" id="SiteHeader_SiteTabs_BarOfSearch_MoreOptionsLink">Search expired listings</a></p>
+            </div>
+        </div>
+
+        <ul id="SiteHeader_SiteTabs_BarOfSearch_watchlistAndFavouritesAndCartButtons" class="nav activities-buying">
+            <li id="watchlist-toggle" class="watchlist" >
+                <a href="/MyTradeMe/Buy/Watchlist.aspx" id="SiteHeader_SiteTabs_BarOfSearch_watchlistDropdownOpen" data-trackingid="57060" class="activities-button activities-button-wide"><span class="icon-watchlist"></span>Watchlist<span class="icon-expand"></span></a>
+                <div id="watchlist-toggle-extension" class="modal-active-ext  activities-buying-dropdowns">
+                        
+                    <div id="watchlist-toggle-extension-line"></div>
+                    <div id="SiteHeader_SiteTabs_BarOfSearch_watchlistDropdownToggleDiv" class="toggle-options" style="display:none;">
+		                <div class="old-btn-group">
+			                <button id="SiteHeader_SiteTabs_BarOfSearch_WatchlistDropDownCategoryAllFilter" onclick="watchlistMiniToggle(&#39;watchlist-toggle&#39;,&#39;&#39;)" class="btn toggle-watchlist">All</button>
+			                <button id="SiteHeader_SiteTabs_BarOfSearch_WatchlistDropDownCategoryFilter" class="btn toggle-watchlist last-child"></button>
+                        </div>
+                    </div>
+                                                      
+                </div>
+            </li>
+            <li id="FavouritesToggle" class="favourites last-child" >
+                <a href="/MyTradeMe/Favourites.aspx" id="SiteHeader_SiteTabs_BarOfSearch_favouritesToggleActivateButton" class="activities-button activities-button-wide" data-trackingid="57287"><span class="icon-favourites"></span>Favourites<span class="icon-expand"></span></a>
+                <div id="FavouritesToggle-extension" class="modal-active-ext  activities-buying-dropdowns">
+                    <div>
+                        <div id="FavouritesToggle-extension-line"></div>               
+                    </div>  
+                               
+                </div>
+            </li>
+            <li id="SiteHeader_SiteTabs_BarOfSearch_CartIconToggle">
+                <a id="cart-button" class="activities-button activities-button-small" href="/MyTradeMe/Buy/ShoppingCart.aspx">
+                    <span class="icon-shopping-cart">
+                        <span class="cart-total-listings" style="display: none;"></span>
+                    </span>
+                    <span class="cart-text">Cart</span>
+                </a>
+            </li>
+        </ul>
+
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+
+    var globalCartDetailsJson = {"buyerId":0,"totalListings":0} ;
+
+</script>
+
+<script>
+    $(document).ready(function() {
+        var cartButton = document.getElementById("cart-button");
+        var cookies = new cookieManager.Instance();
+        if (cartButton) {
+            cartButton.onclick = function() {
+                cookies.setCookie('previousUrl', document.referrer, 1, "/");
+                cookies.setCookie('currentPath', '/Browse/Listing.aspx', 1, "/");
+                cookies.setCookie('currentUrl', document.location.href, 1, "/");
+            }
+        }
+    });
+</script>
+
+
+<script>
+    function onSubmitHandler() {
+
+        // Disable the submit button
+        $('form').find('button[type=submit]').prop('disabled', true);
+        
+        // If we are searching within a promotion
+        var dropSelectElement = $('.drop-select');
+        var chosenOption = $(':selected', dropSelectElement);
+        if (chosenOption.html().toLowerCase().indexOf("promotion") >= 0) {
+            // update the form action
+            document.generalSearch.action = document.location.origin + "/Browse/Deals/DealsHome.aspx";
+
+            // and add a hidden field to take the search to the correct deal (the current one).
+            var dealFormField = document.createElement("input");
+            dealFormField.type = "hidden";
+            dealFormField.name = "deal_promotion_id";
+            dealFormField.value = "";
+            document.generalSearch.appendChild(dealFormField);
+
+            var conditionFormField = document.createElement("input");
+            conditionFormField.type = "hidden";
+            conditionFormField.name = "condition";
+            conditionFormField.value = "";
+            document.generalSearch.appendChild(conditionFormField);
+        }
+
+    }
+</script>
+        
+        
+
+<div class="sub-nav sub-nav-property Background">
+	<div class="sub-nav-left Widget"></div><div class="sub-nav-right Widget"></div>
+	<ul class="Widget">
+		<li class="sub-nav-item sub-nav-first Widget"><a href="/property">Residential</a></li>
+        <li class="sub-nav-item Widget"><a href="/flatmates-wanted">Flatmates</a></li>
+		<li class="sub-nav-item Widget"><a href="/property/open-homes">Open homes</a></li>	
+		<li class="sub-nav-item Widget"><a href="/property/commercial-property">Commercial</a></li>
+		<li class="sub-nav-item Widget"><a href="/property/rural-property-for-sale">Rural</a></li>	
+		<li class="sub-nav-item Widget"><a href="/business-farming-industry/businesses-for-sale">Businesses for sale</a></li>
+		<li class="sub-nav-item Widget"><a href="/property/retirement-villages">Retirement villages</a></li>
+		<li id="SiteHeader_SiteTabs_SubNavProperty_ListPropertyLink" class="sub-nav-item Widget nav-link-right"><a href="/Sell/Category.aspx?group=PROPERTY&cid=350&rptpath=350-">List my property</a></li>
+		<li id="SiteHeader_SiteTabs_SubNavProperty_PropertyInsightsLink" class="sub-nav-item Widget"><a href="/property/insights">Property Insights</a></li>
+        <li id="SiteHeader_SiteTabs_SubNavProperty_PropertyFindAnAgentLink" class="sub-nav-item Widget"><a href="/property/agents">Find an agent</a></li>
+	</ul>
+</div>
+
+
+
+<script src="/Javascript/PropertySubNav-bdl?v=MhId0AenbEaxRIRV2_4Q4FPAJR2FAOXqNLEv0FkeJvM1"></script>
+
+    </div>
+
+    <!--site-maintenance-alert-placeholder-->
+
+                    
+                    <div id="Main" class="main">
+                        
+                        <div id="mainContent" class="content   />">
+    
+<div class="breadcrumb">
+    
+    <a href="/Property" id="StartNewSearchLink" data-from-search="0">
+        <div class="back-button" id="search-link-label-container">
+            <span class="tmicon-arrow-left"></span>
+            <span>Start a new search</span>
+        </div>
+    </a>
+    <div id="BreadcrumbsContainer">
+    <p class="breadCrumbs">
+        
+                <a href="/property">Trade Me Property</a>&nbsp;&gt;
+            
+                <a href="/property/residential">Residential</a>&nbsp;&gt;
+            
+                <a href="/property/residential-property-to-rent">To Rent</a>
+            
+     &gt; <a href="/property/residential-property-to-rent/wellington/">Wellington</a> &gt; <a href="/property/residential-property-to-rent/wellington/wellington/">Wellington</a></p></div>
+</div>
+
+
+    
+
+    <script type="text/javascript">
+        propertyAddress=' Findlay Street';propertySuburb='Tawa';qpidForReport='';isSavedToWatchlist = false;isSignedIn = false;var emailReminder1hr = false; var emailReminder12hrs = true; var emailReminder24hrs = false; var qvreportopen = 0; var photoStartIdNewDir = 100;var listingId = 1512467175; var listingType = "CLASSIFIED"; var emailReminder = 2; var useCookies = false; disallowedQvAgent = false; var cid = "4233"; var useCinemaGalleryView = true; var hoursToGo = 100
+    </script>
+
+    <div id="ListingTitle_container">
+    <h1 id="ListingTitle_title">Tawa, 6+ bedrooms 
+        
+        
+        
+    </h1>
+    
+    <ul id="ListingTitle_status">
+         
+        
+         
+        
+        <li id="ListingTitle_classifiedTitlePrice">$725 per week</li>
+        
+        <li id="ListingTitle_titleTime">Listed: Sun 7 Jan, 1:35 am</li>
+        
+        
+        
+        <li id="ListingTitle_watchlistContainer" class="listing-detail-top-watchlist-btn-container">
+            
+            
+            <a href="/Browse/AddToWatchlist.aspx?id=1512467175&amp;type=CLASSIFIED&amp;cat=To+Rent" id="ListingTitle_watchlistLink" class="btn top-watchlist-button linkUnsaved"><span class="watchlist-plus"></span>Watchlist</a>
+        </li>
+    </ul>
+    <span id="ListingTitle_noStatusListingNumberContainer" class="watchlist-button">Listing #: 1512467175</span>
+ </div>
+
+
+
+<div id="addToCartError" class="addToCartError OopsError" >
+    <span id="addToCartErrorMessage"></span>
+</div>
+<div id="QuickBid_Classified"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="ListingMainDetails">
+            <div id="ListingEmbeddedContent" style="float: right;">
+                
+            </div>
+
+            <div id="DetailsContentColumn" style="margin-right:auto;">
+                
+                
+                
+        <table id="ListingAttributes" class="ListingAttributes">
+        
+            <tr>
+                <th id="ListingAttributes_AttributesRepeater_ctl01_ltHeaderRow">
+                    Location:
+                </th>
+
+                <td>
+                     Findlay Street<br />Tawa<br />Wellington<br />Wellington<br />
+                </td>
+            </tr>
+        
+            <tr>
+                <th id="ListingAttributes_AttributesRepeater_ctl02_ltHeaderRow">
+                    Available:
+                </th>
+
+                <td>
+                    Wed 10 Jan
+                </td>
+            </tr>
+        
+            <tr>
+                <th id="ListingAttributes_AttributesRepeater_ctl03_ltHeaderRow">
+                    Property ID#:
+                </th>
+
+                <td>
+                    FPU789
+                </td>
+            </tr>
+        
+            <tr>
+                <th id="ListingAttributes_AttributesRepeater_ctl04_ltHeaderRow">
+                    In the area:
+                </th>
+
+                <td>
+                    Walking distance to Train, Bus, Linden Shops &amp; Medical Centre, and/or short drive to Schools
+                </td>
+            </tr>
+        
+            <tr>
+                <th id="ListingAttributes_AttributesRepeater_ctl05_ltHeaderRow">
+                    Parking:
+                </th>
+
+                <td>
+                    Offstreet for 4 vehicles
+                </td>
+            </tr>
+        
+            <tr>
+                <th id="ListingAttributes_AttributesRepeater_ctl06_ltHeaderRow">
+                    Ideal tenants:
+                </th>
+
+                <td>
+                    Profession&shy;al.  Respectful&shy;.  House proud.
+                </td>
+            </tr>
+        
+        </table>
+        
+
+
+    
+
+                <div id="ListingDescription_ListingDescription" class="ListingDescription">
+    
+    6 or more bedroom house with 2 bathrooms.<br /><br />Sunny two storey family home with 6/7 bedrooms (2 double, 4 sm dbl/single, 1 single) and 2 bathrooms. Professionally appraised.<br /><br />Freshly painted &amp; redecorated throughout with NEW carpet and drapes. <br /><br />First level features a brand NEW quality kitchen plus appliances - gorgeous stone benchtop, dishwasher, underbench oven, ceramic cooktop and rangehood, existing pantry; dining combined with kitchen; separate spacious lounge, two double bedrooms and one single; bathroom comprises of shower over bath, vanity; handy separate NEW toilet and vanity; separate NEW laundry off kitchen. Linen cupboards on both levels. LED lighting throughout.<br /><br />Upstairs offers four bedrooms and brand NEW bathroom and fittings.<br /><br />Low maintenance grounds, good sized garden shed and section partially fenced.<br /><br />Superbly located on the Tawa flats, this home is close to all amenities. Simply move in and enjoy!<br /><br />NB: This home and property is a smoke and pet free zone.<br /><br />***Moving in costs: 4wks bond, 2wks rent in advance. References &amp; credit check required***<br /><br />Please email expressions of interest via trademe, thanks. <br /><br />Suitable for up to 6 tenants.
+    
+    
+    
+    
+    
+</div>
+
+                
+
+<script src="//maps.google.com/maps/api/js?&v=3&client=gme-trademe&sensor=false&channel=tmproperty" type="text/javascript"></script>
+
+<div id="ListingPropertyMapContainer_panMapContainer" class="MapClassBase MapWidgetContainer" style="clear:both;">
+	
+    
+    <div id="ListingPropertyMapContainer_divPropertyInsightsData" class="property-insights-data">
+        <div class="pi-content-container">
+            <div class="pi-icon"></div>
+            <div class="pi-content">
+                <div class="pi-title">RV <strong></strong></div>
+                <div class="pi-subtitle"></div>
+                <div class="pi-action">See sold records and estimated market values.</div>
+            </div>
+            <div class="pi-cta-container">
+                <a href="/property/insights" target="_blank" id="divPropertyInsightsCTA" class="pi-cta btn btn-property">Estimated market price</a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="map-pin-edit-container" style="display: none">
+        Move the properties location pin to the correct location
+    </div>
+    
+
+<div class="map-header-container">
+    <div class="map-header-title">
+        Show on map
+    </div>
+
+    <div id="mapViewTab" class="map-button-container">
+        <input type="button" name="MapView" value="Map" onclick="return false;" class="btn map-header-button" id="mapViewButton" />
+    </div>
+
+    <div id="streetViewTab" class="map-button-container"  style="display: none;" >
+        <input type="button" name="StreetView" value="Street" onclick="return false;" class="btn map-header-button" id="streetViewButton" />
+    </div>
+
+    
+
+    <div id="ListingPropertyMapContainer_PropertyMapButtons_schoolZonesTab" class="map-button-container">
+        <input type="button" name="Schools" value="Schools" onclick="return false;" class="btn map-header-button" id="schoolsButton" />
+    </div>
+
+
+
+    
+</div>
+
+
+    <div class="google-map-box">
+        <div class="school-zones-filter-box" style="display: none;">
+
+            <div class="school-dropdowns-box">
+                <span class="drop-container">
+                    <span class="drop-label">All schools</span>
+                    <span class="drop-arrow"></span>
+                    <select name="school-types" data-select-width="200" class="drop-select">
+                        <option value="all">All schools</option>
+                    </select>
+                </span>
+                <span class="drop-container drop-container-second">
+                    <span class="drop-label">All zones</span>
+                    <span class="drop-arrow"></span>
+                    <select name="school-zones" data-select-width="200" class="drop-select">
+                        <option value="all">All zones</option>
+                    </select>
+                </span>
+            </div>
+
+            <div class="school-list-box"></div>
+        </div>
+        <div id="property-map" class="property-map">&nbsp;</div>
+    </div>
+    
+    <div id="divBottomAddressBar" style="margin-right: -2px; background-color: #333; line-height: 24px; height: 24px; color: #FFF; display: none; font-size: 12px; text-align: center; border: solid 1px #CCC; border-top: none;">
+        Tip: Click and drag the mouse to look around
+    </div>
+    <div id="boundaryView" class="map-box" style="display: none">
+        <img id="ListingPropertyMapContainer_BoundaryViewImage" class="boundary-view-image" alt="Aerial property boundary image" />
+    </div>
+    <div class="map-pin-edit-container" style="display: none">
+        <span>
+            <button id="cancelMapPinEdit" class="btn" type="button">Cancel</button>
+            <button id="confirMapPinEdit" class="btn btn-property" type="button">Confirm location</button>
+        </span>
+    </div>
+    <div id="ListingPropertyMapContainer_divMapTextAddressLevel" class="PropertyAreaMapText">
+        While we've done our best to correctly map this location, it may not be exact.
+        
+    </div>
+
+    <div id="ListingPropertyMapContainer_divSchoolZoneMapText" class="SchoolZoneMapText">
+        While we've done our best to correctly map schools in this location, school zone information may not be exact,<br />
+        so please double check with the school. Read our <a href="https://www.trademe.co.nz/help/607/maps-in-property?h=607" target="_blank">Maps in Property</a> help page for further information.
+    </div>
+    
+    
+
+    
+
+ <script id="info-window-tmpl" type="text/x-jquery-tmpl">
+        <div>
+            <div class="school-zones-infobox">
+                <div class=" media map-card-content">
+                    <div class="top-part">
+                        <div class="school-title">${Name}</div>
+                        <div class="school-address">${StreetLocation}{{if SuburbLocation}},&nbsp;${SuburbLocation}{{/if}},&nbsp;${CityDistrict}{{if PostCode}}&nbsp;${PostCode}{{/if}}</div>
+                    </div>
+                </div>
+                <div class="map-card-options">
+                    <div class="school-info">
+                        {{if InstitutionType}}
+                                ${InstitutionType}
+                                {{each AgeGroups}}{{if AgeGroups.length == 1}}(${Name}),{{else $index == 0}}(${Name}{{else $index == AgeGroups.length -1}} & ${Name}),{{else $index != AgeGroups.length -1}}, ${Name}{{/if}}{{/each}}
+                        {{/if}}
+                        {{if Authority}}${Authority}{{/if}}
+                    </div>                   
+                    <div class="left-column">                    
+                        {{if !ZoningCalculatedForProperty}}<br/>{{/if}}{{if GenderDescription}}{{if GenderType == 0 || GenderType == 2}}<span class="icon school-icon-set icon-girls"/>{{/if}}{{if GenderType == 0 || GenderType == 1}}<span class="icon school-icon-set icon-boys"/>{{/if}} {{if SchoolRoll}}${SchoolRoll}&nbsp;{{/if}}${GenderDescription}<br/>{{/if}}                   
+                        {{if Distance}}<span class="icon school-icon-set icon-pin"></span>${DistanceToDisplay}&nbsp;from property{{/if}}
+                    </div>     
+                    <div class="right-column">                    
+                       {{if IsZoned}}
+                        {{if ZoningCalculatedForProperty}}                        
+                            {{each SchoolZones}}
+                                {{if AgeGroups.length != $data.AgeGroups.length}}
+                                    {{if InZone == 1}}
+                                        {{each AgeGroups}}
+                                            <span class="icon school-icon-set icon-in-zone"/>In Zone - ${Name}<br/>
+                                        {{/each}}
+                                    {{/if}}
+                                    {{if !InZone}}
+                                        {{each AgeGroups}}
+                                            Out of Zone - ${Name}<br/>
+                                        {{/each}}
+                                    {{/if}}
+                                {{else}}
+                                    {{if InZone == 1}}<span class="icon school-icon-set icon-in-zone"/>In Zone {{/if}}{{if !InZone}}Out of Zone {{/if}}<br/>
+                                {{/if}}
+                                
+                            {{/each}}
+                        {{else}}
+                        Zoned<br/>
+                        {{/if}}
+                       {{/if}}
+                       {{if !IsZoned}}Unzoned<br/>{{/if}}                                                                  
+                       {{if Decile}} <b>Decile rating</b>&nbsp;${Decile}{{/if}}                 
+                    </div>
+                </div>                
+                 <span class="map-card-arrow"></span>
+            </div>
+        </div>
+   </script>
+
+<script id="info-tooltip-tmpl" type="text/x-jquery-tmpl">
+        <div>
+            <div class="school-zones-infobox-tooltip">
+                <div class=" media map-card-content-tooltip">
+                    <div class="top-part">${$data}</div>
+                </div>
+                             
+                 <span class="map-card-arrow-tooltip"></span>
+            </div>
+        </div>
+   </script>
+
+
+    
+    
+
+<script id="rv-data-info-window-tmpl" type="text/x-jquery-tmpl">
+    <div class="rv-data-info-box">
+        {{if GroupId}}
+        <div class="multiunit-nav">
+            <div class="group-position">
+                ${GroupPosition} of ${GroupTotal}
+            </div>
+            <div class="nav-previous" onclick="javascript:RvDataModule.coLocatedNavigate('${GroupId}', '${GroupPosition}', -1);"></div>
+            <div class="nav-divider"></div>
+            <div class="nav-next" onclick="javascript:RvDataModule.coLocatedNavigate('${GroupId}', '${GroupPosition}', 1);"></div>
+        </div>
+        {{/if}}
+
+        <div class="close-btn"></div>
+        <span class="rv-label">RV </span><span class="rv-value">$${RateableValueFormatted} </span>
+        <div  class="rv-most-recent-label">(Most recent)</div>
+        <div class="box-divider"></div>
+
+        <div class="box-left-panel">
+            <span>${FormattedStreetAddress}, </span>
+            {{if Suburb}}
+            <span class="suburb">${Suburb}, ${Town}</span>
+            {{else}}
+             <span class="suburb">${Town}</span>
+            {{/if}}
+            <div class="type">${PropertyType}</div>
+        </div>
+        <div class="box-right-panel">
+            <div class="right-container">
+                <div class="right-content">
+                    {{if Bedrooms}}
+                   <div class="rv-bedrooms icon-conatiner">
+                       <img src="/images/maps/bed-icon.png" />
+                       <span>${Bedrooms}</span>
+                   </div>
+                    {{/if}}
+
+                {{if Bathrooms}}
+                    <div class="rv-bathrooms icon-conatiner">
+                        <img src="/images/maps/bath-icon.png" />
+                        <span>${Bathrooms}</span>
+                    </div>
+                    {{/if}}
+
+                {{if FloorArea}}
+                     <div class="icon-conatiner">
+                         <img src="/images/maps/floor-icon.png" />
+                         <span>${FloorArea} </span><span>m<sup class="rv-super-script">2</sup></span>
+                     </div>
+                    {{/if}}
+
+                {{if LandArea}}
+                    <div class="icon-conatiner">
+                        <img src="/images/maps/land-icon.png" />
+                        <span>${LandArea} </span><span>m<sup class="rv-super-script">2</sup></span>
+                    </div>
+                    {{/if}}
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+    
+    <div id="ListingPropertyMapContainer_propertyInfoBox" class="property-info-box">
+        <img class="property-image" src="https://trademe.tmcdn.co.nz/photoserver/tq/707081071.jpg" alt=""/>
+        <div class="property-info">
+            <div class="price" title="$725 per week">$725 per week</div>
+            <div class="address"> Findlay Street, <span class="suburb-region">Tawa, Wellington, Wellington</span></div>
+            <div id="ListingPropertyMapContainer_bedroomsAndBathrooms" class="bedrooms-bathrooms">
+                <span class="bedrooms">6+</span>
+                <img class="bed-icon" src="/images/property/listing/bed-icon.svg">
+                <span class="bathrooms">2</span>
+                <img class="bath-icon" src="/images/property/listing/bath-icon.svg" />
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var map;
+        var mapState = {
+            listingId: 1512467175,
+            lat: -41.1547448,
+            lng: 174.8323628,
+            zoom: 15,
+            mapTypeId: 3,
+            showPin: true,
+            showInfoWindow: true,
+            streetAddress: " Findlay Street",
+            suburbAndRegion: "Tawa, Wellington, Wellington",
+            suburbName: "Tawa",
+            propertyImageUrl: "https://trademe.tmcdn.co.nz/photoserver/tq/707081071.jpg",
+            showStreetView: true,
+            showBoundaryView: false,
+            showSchools: true,
+            streetViewPano: null,
+            streetViewPOV: null,
+            rvDataEnabled: false,
+            propertyInsightsDataEnabled: true
+        };
+    </script>
+    
+    <script src="/Javascript/ListingMap-bdl?v=CbkOONyXazVBml8Wajwg7uvMxqcTed5RpXhU6wy6udQ1"></script>
+
+    <script src="/Javascript/ListingMapPropertyInsightsData-bdl?v=OUOE0sj41w9HED9mIyU_Y8bwUD_dSm2EDEAvt7zFqm81"></script>
+
+    
+    <script src="/Javascript/InfoBox-bdl?v=92y1hphwAIUMCQlbyZqdlZtHx2NMQ_bbdIz9hrorN0c1"></script>
+
+
+</div>
+                <div id="BuyerChecklistDiv" class="property-buyers-checklist"><div><h2 id="BuyerChecklistHeading" style="display:none;">Renter's checklist</h2><div id="tmClContent" style="width:100%;"><div id="BuyerChecklistDivContent"></div>
+<script language="javascript" type="text/javascript">
+<!--
+jQuery(document).ready(function () { if (typeof(Ads) != "undefined") Ads.registerAd('BuyerChecklistDivContent','RentalsChecklist','');});
+//--> 
+</script>
+</div></div></div>
+                
+
+            </div><div id="ListingPhotoAndAd" style="float: right; clear: right;">
+                <div id="OptionalScript">
+	
+    <script type="text/javascript" language="javascript">
+        //<![CDATA[
+        document.write('<style type="text/css">#otherImages { height: 86px; visibility: hidden; }<\/style>');
+        //]]>
+    </script>
+
+</div>
+<script type="text/javascript">
+    var photoStartIdNewDir = 100;
+</script>
+
+<script type="text/javascript" language="javascript">
+    var imagePath = 'https://trademe.tmcdn.co.nz/photoserver/';
+    var prevMethod = true;
+    $(function() {
+        if(typeof(imagePath) !== 'undefined'){
+            var scroller = new TradeMe.Scroller(jQuery('#scroller'), 353, 99, imagePath, "tq");
+        }
+    });
+    
+</script>
+<script type="text/javascript" language="javascript">
+    var videoExitTrackingId = 0;
+    var videoIsCurrentlyMuted = false;
+    var userHasStartedVideo = false;  //used to track play and resume clicks
+        
+    $(document).ready(function () {
+        //manually set the volume
+         var div = document.getElementById('myVideo');
+         if (div != null) {
+             
+            _V_("myVideo").volume();
+             //add event tracking
+            if(false) {
+                
+                //tracking links for motors
+                _V_("myVideo").addEvent("play", function () {
+                    //establish if we are starting the video or resuming
+                    if(userHasStartedVideo) {
+                        //this is a resume
+                        TrackVideoAction(57316);
+                    }
+                    else {
+                        TrackVideoAction(57314);
+                        PingAutobase();
+                        userHasStartedVideo = true;
+                    }
+                });
+                _V_("myVideo").addEvent("pause", function () { TrackVideoAction(57315); });
+                _V_("myVideo").addEvent("ended", function () {
+                    TrackVideoAction(57320);
+                    userHasStartedVideo = false;
+                });
+                _V_("myVideo").addEvent("ended", function () { _V_("myVideo").loadingSpinner.hide(); });       
+                _V_("myVideo").addEvent("volumechange", function () { VideoPlayerVolumeChange(57318, 57319); });
+                _V_("myVideo").addEvent("error", function () {
+                    _V_("myVideo").pause();
+                    //remove the video player
+                    $("#myVideo").html("<p style=\"color: white;\">We’re sorry, this video is currently unavailable</p>");
+                });
+                 videoExitTrackingId = 57317;
+            }    
+            else {
+                //tracking links for other sections 
+                 _V_("myVideo").addEvent("play", function () { TrackVideoAction(54421); });
+                _V_("myVideo").addEvent("pause", function () { TrackVideoAction(54422); });
+                _V_("myVideo").addEvent("ended", function () { TrackVideoAction(54423); });
+            }
+            
+        }
+        
+        function PingAutobase(autobaseId) {
+                      //need to tell Autobase that someone has pressed play
+            $.get("/API/Ajax/MotorsIncrementVideoCount.ashx?id=" + autobaseId);
+        }
+    });
+
+
+
+</script>
+<div id="listingPhotos">
+    <div>
+        <table id="mainImageTable">
+            <tr>
+                <td id="mainImg" valign="middle" align="center">
+                    <a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081071.htm" id="mainImgLink" rel="nofollow">
+                        <img src="https://trademe.tmcdn.co.nz/photoserver/tq/707081071.jpg" id="mainImage" class="t_707081071" alt="Tawa, 6+ bedrooms, $725 pw" />
+                        
+                    </a>
+                </td>
+
+            </tr>
+        </table>
+    </div>
+    <div id="pCounter">
+        Photo 1 of
+        
+    </div>
+    <div id="otherImages">
+    <a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081403.htm" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081403.jpg" /></a><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081609.htm" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081609.jpg" /></a><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081704.htm" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081704.jpg" /></a><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081998.htm" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081998.jpg" /></a></div>
+    <div id="contentArea" class="contentNoScroll">
+        <div id="leftGradient">
+            <a href="javascript:void(0);" id="pl" style="">
+                <img onmouseout="this.src='/Images/Listing/l-button.gif';" onmouseover="this.src='/Images/Listing/l-button-over.gif';"
+                    alt="Previous Photo" title="Previous Photo" src="/Images/Listing/l-button.gif" />
+            </a>
+        </div>
+        <div id="rightGradient">
+            <a href="javascript:void(0);" id="pr" style="">
+                <img onmouseout="this.src='/Images/Listing/r-button.gif';" onmouseover="this.src='/Images/Listing/r-button-over.gif';"
+                    alt="Next Photo" title="Next Photo" src="/Images/Listing/r-button.gif" />
+            </a>
+        </div>
+        <div id="scroller" class="scroller">
+        <div><ul id="thumbs" class="thumbs"><li id="thumb_707081071" class="thumb selectedThumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081071.htm" class="t_707081071" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081071.jpg" alt="Tawa, 6+ bedrooms, $725 pw" /></a></li><li id="thumb_707081403" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081403.htm" class="t_707081403" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081403.jpg" /></a></li><li id="thumb_707081609" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081609.htm" class="t_707081609" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081609.jpg" /></a></li><li id="thumb_707081704" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081704.htm" class="t_707081704" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081704.jpg" /></a></li><li id="thumb_707081998" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081998.htm" class="t_707081998" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081998.jpg" /></a></li><li id="thumb_707082044" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707082044.htm" class="t_707082044" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707082044.jpg" /></a></li><li id="thumb_707082208" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707082208.htm" class="t_707082208" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707082208.jpg" /></a></li><li id="thumb_707082264" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707082264.htm" class="t_707082264" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707082264.jpg" /></a></li><li id="thumb_707083064" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707083064.htm" class="t_707083064" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707083064.jpg" /></a></li><li id="thumb_707083776" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707083776.htm" class="t_707083776" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707083776.jpg" /></a></li><li id="thumb_707083916" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707083916.htm" class="t_707083916" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707083916.jpg" /></a></li><li id="thumb_707084107" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707084107.htm" class="t_707084107" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084107.jpg" /></a></li><li id="thumb_707084206" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707084206.htm" class="t_707084206" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084206.jpg" /></a></li><li id="thumb_707084386" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707084386.htm" class="t_707084386" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084386.jpg" /></a></li><li id="thumb_707084598" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707084598.htm" class="t_707084598" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084598.jpg" /></a></li><li id="thumb_707084785" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707084785.htm" class="t_707084785" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084785.jpg" /></a></li><li id="thumb_707084874" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707084874.htm" class="t_707084874" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084874.jpg" /></a></li><li id="thumb_707084920" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707084920.htm" class="t_707084920" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084920.jpg" /></a></li><li id="thumb_707085003" class="thumb"><a href="/property/residential-property-to-rent/photos/a-1512467175/p-707085003.htm" class="t_707085003" rel="nofollow"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707085003.jpg" /></a></li></ul></div></div>
+    </div>
+    <div class="marginTop15">
+        <a href="/property/residential-property-to-rent/photos/a-1512467175/p-707081071.htm" id="viewFullSize" rel="nofollow">
+            <img src="/images/listing/mag.gif" alt="View" /><span id="ViewSizeText">View
+                full size photos</span> </a>
+    </div>
+</div>
+<div id="lbOuter" class="lightboxClose no-underline">
+    <div id="lbContainer">
+        <a href="javascript:void(0);" class="lightboxClose" id="lightboxClose">
+            <img alt="Close window" title="Close window" src="/Images/1pixel.gif" class="Widget" />
+        </a>
+        <div id="lbBodyContainer">
+            <div id="lbMainPhotoOuter">
+                <div id="lbScroller">
+                    <div id="lbCounterContainer" class="Widget no-underline">
+                        <a href="javascript:void(0);" id="lbLeft">
+                            <img alt="" src="/Images/1pixel.gif" class="Widget" />
+                        </a>
+                        <div id="lbCounter">
+                            <strong id="lbPhotoCountCurrent"></strong>of <strong id="lbPhotoCountMax"></strong>
+                        </div>
+                        <a href="javascript:void(0);" id="lbRight">
+                            <img alt="" src="/Images/1pixel.gif" class="Widget" />
+                        </a>
+                    </div>
+                </div>
+                <table cellspacing="0" cellpadding="0">
+                    <tbody>
+                        <tr>
+                            <td id="lbMainPhotoContainer">
+                                
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id="lbThumbOuter">
+                <div id="lbThumbContainer">
+                    <ul id="lbThumbs"><li id="lbThumb_707081071" class="lbThumb selectedLbThumb"><a href="javascript:void(0);" class="lbt_707081071"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081071.jpg" rel="nofollow" /></a></li><li id="lbThumb_707081403" class="lbThumb"><a href="javascript:void(0);" class="lbt_707081403"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081403.jpg" rel="nofollow" /></a></li><li id="lbThumb_707081609" class="lbThumb"><a href="javascript:void(0);" class="lbt_707081609"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081609.jpg" rel="nofollow" /></a></li><li id="lbThumb_707081704" class="lbThumb"><a href="javascript:void(0);" class="lbt_707081704"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081704.jpg" rel="nofollow" /></a></li><li id="lbThumb_707081998" class="lbThumb"><a href="javascript:void(0);" class="lbt_707081998"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707081998.jpg" rel="nofollow" /></a></li><li id="lbThumb_707082044" class="lbThumb"><a href="javascript:void(0);" class="lbt_707082044"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707082044.jpg" rel="nofollow" /></a></li><li id="lbThumb_707082208" class="lbThumb"><a href="javascript:void(0);" class="lbt_707082208"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707082208.jpg" rel="nofollow" /></a></li><li id="lbThumb_707082264" class="lbThumb"><a href="javascript:void(0);" class="lbt_707082264"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707082264.jpg" rel="nofollow" /></a></li><li id="lbThumb_707083064" class="lbThumb"><a href="javascript:void(0);" class="lbt_707083064"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707083064.jpg" rel="nofollow" /></a></li><li id="lbThumb_707083776" class="lbThumb"><a href="javascript:void(0);" class="lbt_707083776"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707083776.jpg" rel="nofollow" /></a></li><li id="lbThumb_707083916" class="lbThumb"><a href="javascript:void(0);" class="lbt_707083916"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707083916.jpg" rel="nofollow" /></a></li><li id="lbThumb_707084107" class="lbThumb"><a href="javascript:void(0);" class="lbt_707084107"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084107.jpg" rel="nofollow" /></a></li><li id="lbThumb_707084206" class="lbThumb"><a href="javascript:void(0);" class="lbt_707084206"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084206.jpg" rel="nofollow" /></a></li><li id="lbThumb_707084386" class="lbThumb"><a href="javascript:void(0);" class="lbt_707084386"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084386.jpg" rel="nofollow" /></a></li><li id="lbThumb_707084598" class="lbThumb"><a href="javascript:void(0);" class="lbt_707084598"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084598.jpg" rel="nofollow" /></a></li><li id="lbThumb_707084785" class="lbThumb"><a href="javascript:void(0);" class="lbt_707084785"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084785.jpg" rel="nofollow" /></a></li><li id="lbThumb_707084874" class="lbThumb"><a href="javascript:void(0);" class="lbt_707084874"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084874.jpg" rel="nofollow" /></a></li><li id="lbThumb_707084920" class="lbThumb"><a href="javascript:void(0);" class="lbt_707084920"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707084920.jpg" rel="nofollow" /></a></li><li id="lbThumb_707085003" class="lbThumb"><a href="javascript:void(0);" class="lbt_707085003"><img src="https://trademe.tmcdn.co.nz/photoserver/thumb/707085003.jpg" rel="nofollow" /></a></li></ul>
+                    <div id="lbThumbPadder">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+                <div id="advertSection">
+                    
+<div id="PropertyLDP300x70_559_wrapper" class="tm-display-ad " style="max-width:300px;min-width:300px;max-height:70px;min-height:70px;" tm-sizes="[[300, 70]]"></div>
+
+
+                    <div id="advertSkyscrapper" class="skyscrapper-container">
+                        <div id="RightSkyscraperLarge_AdLabel" class="AdvertisementText"><img src="/images/1pixel.gif" class="Widget" alt="Advertisement" /></div>
+<div id="LargeSkyscraper_738_wrapper" class="tm-display-ad " style="max-width:300px;min-width:300px;max-height:600px;min-height:250px;" tm-sizes="[[300, 250], [300, 600]]"></div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+        <div class="clear"></div>
+
+        <div id="SaveToWatchlist_SaveToWatchlistArea" style="width:725px;">
+    <div id="SaveToWatchlist_SaveToWatchlistLeft" class="orange-watchlist" style="width:auto;">
+       
+            <a href="/Browse/AddToWatchlist.aspx?id=1512467175&amp;type=CLASSIFIED&amp;cat=To-Rent" id="SaveToWatchlist_SaveToWatchlistButton" class="SaveToWatchlistButton spriteButton button30">
+                Save to Watchlist
+            </a>
+            
+            <div id="SaveToWatchlist_MessageWatchlistSaveInvalidAttempt" style="display: none;color:Red;"></div>            
+    </div>
+    
+    <div id="SaveToWatchlist_BuzzyBeeArea" class="buzzyBeeArea">
+        <a href="/Browse/RelatedListings.aspx?listing=1512467175" id="SaveToWatchlist_BuzzyBee" class="btn buzzyBeeGreyButton" onclick="trackBuzzyBeeClick(&#39;buzzy_bee_more_listings_click&#39;);" style="width:250px;margin-left:20px !important;">
+        <img src="/Images/Browse/RelatedListings.gif" alt="" />Other properties you may like
+    </a>
+    </div>
+
+    <div id="SaveToWatchlistRight" class="saveDetailsIconsArea">
+        <ul>
+            <li>
+                <a href="javascript:void(0);" onclick="javascript:window.print();" rel="nofollow">
+                    <img src="/images/1pixel.gif" alt="" id="PrintIcon" />
+                    <span>Print</span></a>
+            </li>
+            <li id="SaveToWatchlist_EmailFriendItem">
+                <a href="/Browse/EmailToFriend.aspx?cid=4233&amp;type=auction&amp;id=1512467175&amp;watchlist=False&amp;open_homes=&amp;region=&amp;district=" id="SaveToWatchlist_EmailToFriendLink" rel="nofollow">
+                    <img src="/images/1pixel.gif" alt="" id="EmailIcon" />
+                    <span>Email</span></a>
+            </li>
+            <li id="SaveToWatchlist_FacebookItem">
+                <a href="https://www.trademe.co.nz/link.aspx?i=25754&amp;u=https%3a%2f%2ftrademe.co.nz%2f1512467175&amp;-listing=1512467175" id="SaveToWatchlist_FacebookLink" target="_blank" rel="nofollow" class="share-fb">
+                    <img src="/images/1pixel.gif" alt="" id="FacebookIcon" />
+                    <span>Facebook</span></a>
+            </li>
+            <li id="SaveToWatchlist_TwitterItem">
+                <a href="https://www.trademe.co.nz/link.aspx?i=25755&amp;status=Tawa%2c+6%2b+bedrooms%2c+%24725+pw%20https%3a%2f%2ftrademe.co.nz%2f1512467175&amp;-listing=1512467175" id="SaveToWatchlist_TwitterLink" target="_blank" rel="nofollow" class="share-twitter">
+                    <img src="/images/1pixel.gif" alt="" id="TwitterIcon" />
+                    <span>Twitter</span></a>
+            </li>
+        </ul>
+    </div>
+
+</div>
+
+<div id="EmailMeAReminder" style="display: none;">
+
+    <a style="float: right;" id="EmailMeAReminderCloseButton" href="#"><img src="/Images/Listing/WatchlistClose.gif" alt="X" width="13" height="13" border="0" /></a>
+    <strong>Email me a reminder:</strong><br />
+    <div id="WatchlistPopupExpiryDateEmail">Closes: </div>
+
+    
+    
+    <form action="#" id="EmailMeAReminderForm">
+    
+        <input type="checkbox" name="EmailTime" value="1" id="EmailTime1" />
+        <label for="EmailTime1" id="EmailTimeLabel1">1 hr before closing</label><br />
+        
+        <input type="checkbox" name="EmailTime" value="12" id="EmailTime12" />
+        <label for="EmailTime12" id="EmailTimeLabel12">12 hrs before closing</label><br />
+        
+        <input type="checkbox" name="EmailTime" value="24" id="EmailTime24" />
+        <label for="EmailTime24" id="EmailTimeLabel24">24 hrs before closing</label><br />
+        
+        <hr />
+        <input type="checkbox" name="SaveEmailTime" id="SaveEmailTime" value="1" /> <label for="SaveEmailTime">Always use this option</label><br />
+        <br />
+        <div align="center">
+        <input type="submit" value="Save and close" id="EmailMeAReminderFormButton" />
+        </div>
+    
+
+    </form>
+</div>
+
+
+<a id="vtBookViewing"></a>
+<div class="ActionsContainer">
+    <div class="ContainerPartsTop">
+        
+        
+        
+
+        
+        <div id="ClassifiedActions_AdvertiserDetails" class="ListerDetailsContainer">
+            <div class="Padding">
+                <h2>Advertiser's details</h2>
+                <div id="Advertiser">
+                    <div id="ClassifiedActions_AdvertiserName" class="BottomSpace AlignToBullets">
+<span class="nick"><a id="MemberLink" class="member-rating-bold-link" href="/Members/Listings.aspx?member=6552781">synergee3</a></span> <span class="rating">(<a id="RatingLink" href="/Members/Feedback.aspx?member=6552781">new</a>
+    <a id="StarImageLink" class="img member-rating-feedback-stars" href="/Members/Feedback.aspx?member=6552781"><img id="starImageForLink" class="rating" src="/images/star.gif" alt="0 positive feedback" style="border-width:0px;" /></a>)</span>
+
+
+
+</div>
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+            <div class="InnerTopLeft">
+            </div>
+            <div class="InnerTopRight">
+            </div>
+        </div>
+        
+        
+        
+        
+        <div id="ClassifiedActions_AgentEnquiry" class="ActionContainer">
+            
+            <div id="ClassifiedActions_AEMemberNotLoggedInEmailContainer" class="EmailErrorMessage">
+                <a href="/Members/Login.aspx?url=%2fbrowse%2flisting.aspx%3fid%3d1512467175%26rewritten%3dtrue" id="ClassifiedActions_AEEmailLoginLink">Log in</a>
+                or <a href="/Members/Register.aspx">register</a> to create a booking.
+            </div>
+            
+            <div class="InnerTopLeft"></div>
+            <div class="InnerTopRight"></div>
+        </div>
+
+        
+
+        <div class="ContainerPartTopRight">
+        </div>
+    </div>
+    <div class="ContainerPartsBottom">
+        
+        <div id="ClassifiedActions_ListerDetailsBottom" class="ListerDetailsContainerBottom">
+            <div class="InnerBottomLeft">
+            </div>
+            <div class="InnerBottomRight">
+            </div>
+        </div>
+        <div id="ClassifiedActions_EmailContainerBottom" class="ActionContainerBottom">
+            <div class="InnerBottomLeft">
+            </div>
+            <div class="InnerBottomRight">
+            </div>
+        </div>
+        <span class="ContainerPartBottomRight"></span>
+    </div>
+</div>
+<div id="ClassifiedActions_Expires" class="Expires">Expires: Sun 21 Jan, 1:35 am</div>
+
+
+
+<script type="text/javascript">
+    function limitText(elementId, fieldToLimit, buttonId) {
+        var $textArea = elementId;
+        var $FeedbackTextArea = $("#" + fieldToLimit);
+        var submitButton = $("#" + buttonId);
+        var mylength = $textArea.value.length;
+        var countElement = $("#" + fieldToLimit + "Count");
+
+        submitButton.disabled = false;
+
+        if (mylength <= 0) {
+            submitButton.disabled = true;
+        } else if (mylength > 500) {
+
+            $FeedbackTextArea.val($FeedbackTextArea.val().substring(0, 500));
+
+            $textArea.selectionStart = $textArea.value.length;
+            $textArea.selectionEnd = $textArea.value.length;
+            $textArea.focus();
+        }
+
+        countElement.html(500 - $textArea.value.length);
+
+        return true;
+
+    }
+
+    function validateSellerEmail() {
+        var emailBox = jQuery(".ContactAgentEmailSeller");
+        if (emailBox.length > 0) {
+
+            var text = emailBox.val();
+
+            // remove all symbols, leave only normal characters.
+            text = text.replace(/[^A-Za-z]/g, "");
+            if (text.length == 0) {
+                jQuery("#EmailErrorMessage").text("Please enter your enquiry below");
+                jQuery("#ClassifiedActions_EmailForm").css("background-color", "#ff0");
+                return false;
+            } else {
+                return true;
+            }
+
+        } else {
+            return false;
+        }
+    }
+</script>
+
+<script id="vtBookingSelectTemplate" type="text/x-jquery-tmpl">
+    <div class="vt-time-title">${dateString}</div>
+    <div class="booking-times-container">
+    {{each availableTimes}}
+    <label class="vt-booking-time"><input type="radio" name="booking-selection" value="${viewingId}" class="vt-time-radio" />${timeSlotString}</label>
+    {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+<div id="DetailsFooterOptions">
+    
+    
+    
+    <div id="DetailsFooter_PageCounterContainer" class="PageCounterContainer">
+    
+        Page Views
+        <div id="DetailsFooter_PageViewsPanel">
+	<img src="/images/counter/0.gif" alt="0" /><img src="/images/counter/2.gif" alt="2" /><img src="/images/counter/2.gif" alt="2" /><img src="/images/counter/2.gif" alt="2" />
+</div>
+    
+    </div>
+    
+    <div id="DetailsFooter_CommunityWatchLink" class="CommunityWatchLink">
+    
+        <strong>Community Watch</strong><br />
+        <a href="/Browse/CommunityWatch.aspx?id=1512467175" id="DetailsFooter_ReportThisListing" rel="nofollow">Report this listing</a>
+    
+    </div>
+  
+
+</div>
+
+<script src="/Javascript/jquery-bdl?v=Q0zamtzUCaOkcfK9AkRLDh0wYek7PJ2-vkczkFeKvlU1"></script>
+
+<script src="/Javascript/jquery.cookie-bdl?v=XA5kyy4KTF4g4IOETDYeFmrdjcwgjGmVMZfJ5FVrE-w1"></script>
+
+<script src="/Javascript/BuzzyBee-bdl?v=jL_sBNwWyHKyEmPWyU9CtxQDAzOJrLWekJeW7K0NoA01"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        // check for cookie
+        $.noConflict();
+        var abbuzzybeetest = jQuery.cookie("abtest_buzzybee");
+        
+        // hide original buzzy bee link if cookie set to show new panel. Only track the original link
+        if (typeof abbuzzybeetest != 'undefined' && abbuzzybeetest > 95 && window.location.href.toString().indexOf("/clothing") != -1 && ($(".BuzzyBeeDisplayAbTest").length != 0)) {
+            $(".BuzzyBee").hide();
+        } else {
+            trackBuzzyBeeView("buzzy_bee_control_view");
+        }
+    });
+</script>
+    
+    
+
+
+</div>
+                <div class="clearLeft"></div>  
+            </div>
+        </div>
+    </div>
+    <div class="site-footer">
+		<div class="wrapper">
+            
+<div class="footer-section footer-sidebar">                
+	<div class="bd">
+        <a href="#top-of-page">Back to top<span class="icon-back-to-top"></span></a>
+        <div class="old-btn-group choose-platform">
+			<a class="btn toggle-large btn-active"><span class="icon-desktop"></span>Desktop</a>
+			<a href="https://touch.trademe.co.nz/listing/view/1512467175" id="Footer_FooterLinks_MobileToggler" class="btn toggle-large last-child"><span class="icon-mobile"></span>Mobile</a>
+        </div>
+        <p class="copyright">&copy; 2018 Trade Me Limited</p>
+
+        <div id="Footer_FooterLinks_HiddenLinkContentContainer">
+            <a class="hidden-element-link"></a>
+            <script src="https://d3f5l8ze0o4j2m.cloudfront.net/m87/k33spt.js"></script>
+            <script>
+                (function () {
+                    window.onload = function(){
+                        var frameName = new ds07o6pcmkorn({
+                            openElementId: ".hidden-element-link"
+                        });
+                        frameName.init();
+                    }
+                })();
+            </script>
+        </div>
+    </div>
+</div>  
+<div class="footer-section footer-links">
+    <ul class="blank">
+        <li><a href="/browse" id="Footer_FooterLinks_browseLink">Browse</a></li>
+		<li><a href="/Sell/Default.aspx" id="Footer_FooterLinks_sellLink">Sell</a></li>
+		<li><a href="/MyTradeMe/Default.aspx" id="Footer_FooterLinks_mtmLink">My Trade Me</a></li>
+        <li><a href="/Community/Default.aspx" id="Footer_FooterLinks_communityLink">Community</a></li>
+        <li><a href="/Help/Default.aspx" id="Footer_FooterLinks_helpLink">Help</a></li>
+    </ul>
+    <ul class="blank">
+		<li><a href="/Community/SiteAnnouncements.aspx" id="Footer_FooterLinks_announcementsLink">Announcements</a></li>
+		<li><a href="/trust-safety" id="Footer_FooterLinks_trustAndSafetyLink">Trust &amp; Safety</a></li>
+        <li><a href="/seller-information-centre" id="Footer_FooterLinks_sellerLink">Seller Information</a></li>
+        <li><a href="https://www.trademe.co.nz/link.aspx?i=78317" id="Footer_FooterLinks_advertiseLink">Advertise</a></li>
+        <li><a href="https://www.trademe.co.nz/link.aspx?i=78318" id="Footer_FooterLinks_appsLink">Apps</a></li>
+    </ul>
+    <ul class="blank">
+        <li><a href="https://www.trademe.co.nz/link.aspx?i=78319" id="Footer_FooterLinks_aboutUsLink">About Us</a></li>
+        <li><a href="https://www.trademe.co.nz/link.aspx?i=78320" id="Footer_FooterLinks_carreersLink">Careers</a></li>
+		<li><a href="https://www.trademe.co.nz/link.aspx?i=78321" id="Footer_FooterLinks_investorLink">Investor Relations</a></li>
+        <li><a href="https://www.trademe.co.nz/link.aspx?i=78322" id="Footer_FooterLinks_policiesLink">Policies</a></li>
+        <li><a href="/Help/ContactUs.aspx" id="Footer_FooterLinks_contactUsLink">Contact Us</a></li>
+	</ul>
+    <script src="/Javascript/Footer/MobileRedirectCleanUp-bdl?v=DCf_1QR-Q_krHZ8xTcbLODDPjIJFs3aR-kPeEFevqaw1"></script>
+
+</div>
+        </div>
+        
+
+<iframe sandbox="allow-same-origin allow-scripts"
+    id="multisync-iframe" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"
+    src="https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=dfp&endpoint=apac"
+    style="border: 0px; display: none;"></iframe>
+
+
+    </div>
+
+    
+</div>
+
+<script src="/JavaScript/TMCommon-bdl?v=ED58TQn5jf_hOYNkMCCZprU5o_DhyjrfGh9o2GvwCh41"></script>
+
+
+<script type="text/javascript">
+    //<![CDATA[
+    
+    (function($) {
+        $(document).ready(function() {
+         
+            $('.drop-select').dropdown();
+            $('input').placeholder();
+            $('#searchString').ubersuggest({offsetElement: $('.main-search-control')});
+           
+            //Insertion point for adding document.ready javascript 
+            
+            //Insertion point for loading remote javascript files
+            
+           
+        });
+        
+        $(window).load(function() {
+            if (TradeMe.init != undefined)
+            {
+                TradeMe.init();
+            }
+           
+            //Insertion point for adding window.load javascript 
+            
+            //Insertion point for loading remote javascript files
+            
+        
+        });
+
+         
+    })(jQuery);
+   
+//]]>
+</script>
+
+<script language="JavaScript" type="text/javascript" src="//ads.trademe.co.nz/Javascript/Ads5.js"></script>
+<script language="JavaScript" type="text/javascript" src="/JavaScript/AdHandlers-bdl?v=LYS0s675bnw1LQfxHhGhqiluizqegGZ0DugRLdQfKOI1"></script>
+    <script type="text/javascript">
+        <!--
+        if (typeof (Ads) != "undefined") { jQuery(window).load(function () { Ads.populateAds('eyJzIjowLCJtIjoiMzUwLTU3NDgtNDIzMy0iLCJtaWQiOjAsIm1pcCI6IjIxOS44OC4yMzIuMTY2IiwicCI6Ii9CUk9XU0UvTElTVElORy5BU1BYIiwic292IjowLCJnIjoiQiIsImJpZCI6MCwiciI6IjIiLCJyZXMiOjAsImN0IjowLCJiZHQiOjAsInNiIjoiIiwicGMiOiIiLCJkcGlkIjowLCJoYXNoIjpudWxsLCJtYXQiOiIifQ=='); }); }
+    -->
+    </script>
+
+
+
+<script type="text/javascript" src="//ads.trademe.co.nz/JavaScript/TradeMeAds33.js"></script><script type="text/javascript">var currentCid=4233;</script><script type="text/javascript" src="/Javascript/LoadAudienceSegs-bdl?v=l9tA7PYZ7x0WrVx2o5LvusZBqGHDRaaftsF5Yq6fbaY1"></script><script type="text/javascript">if (!window.trademe || !trademe.ads || !trademe.ads.dataLayerSet) {window.trademe = window.trademe || {};trademe.ads = trademe.ads || {};trademe.ads.dataLayer = {"AdUnitCode":"150718986/tm-web/property/residential/to-rent","KeyValues":{"adsl":["a"],"fibre":["n"],"vdsl":["n"],"wireless":["n"],"p":["2"],"env":["production"],"ptype":["listing"]},"Kvp":{"proptype":"House","smokealarm":"dontknow","agent":0,"region":15,"district":47,"suburb":965,"keyword":["Tawa","bedrooms","725","Sunny","storey","family","home","bedrooms","double","dbl","single","single","bathrooms","Professionally","appraised","Freshly","painted","redecorated","throughout","NEW","carpet","drapes","level","features","brand","NEW","quality","kitchen","plus","appliances","gorgeous","stone","benchtop","dishwasher","underbench","oven","ceramic","cooktop","rangehood","existing","pantry","dining","combined","kitchen","separate","spacious","lounge","double","bedrooms","single","bathroom","comprises","shower","bath","vanity","handy","separate","NEW","toilet","vanity","separate","NEW","laundry","off","kitchen","Linen","cupboards","both","levels","LED","lighting","throughout","Upstairs","offers","four"],"pb":["R08"]},"MCatPath":["property","residential","to-rent"],"Ppid":""};trademe.ads.dataLayerSet = true;}</script><script src="/JavaScript/Ads/Dfp-bdl?v=vbZ8WLNV-5NA90J2CFjLlNB5U05ynhKFGiG5zV3Xbtc1"></script>
+
+    <script src="/JavaScript/ClientValidation-bdl?v=FBjRCgca51PTaKFr9KR9i0XoWdqiXGUE2k8Hoe7kdvs1"></script>
+
+    <script src="/JavaScript/Browse/PropertyListing-bdl?v=gGIxhoz7eiYh4cpKJES9cxQafbuRtI6Y_Owy8nri6eE1"></script>
+
+    
+    
+    
+
+    
+
+</body>
+</html>

@@ -209,4 +209,24 @@ describe ScrapeListingPage do
     end
   end
 
+  context "with listing 1512467175" do
+    before do
+      stub_request(:get, "https://www.trademe.co.nz/property/residential-property-to-rent/auction-1512467175.htm").to_return(File.new('spec/fixtures/auction-1512467175.curl'))
+    end
+
+    let(:scrape) { ScrapeListingPage.new("https://www.trademe.co.nz/property/residential-property-to-rent/auction-1512467175.htm") }
+
+    context "#bedrooms" do
+      it "gives the bedroom count" do
+        expect(scrape.bedrooms).to eq(6)
+      end
+    end
+
+    context "#bathrooms" do
+      it "gives the bathroom count" do
+        expect(scrape.bathrooms).to eq(2)
+      end
+    end
+  end
+
 end

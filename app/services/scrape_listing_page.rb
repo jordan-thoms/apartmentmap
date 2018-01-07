@@ -90,6 +90,6 @@ class ScrapeListingPage
 
 
   def matched_description
-    @matches ||= full_description.match(/(?<bedrooms>[\d]+) bedroom (?<type>[\w\s]+) with (?<bathrooms>[\d]+) bathroom/)
+    @matches ||= full_description.match(/(?<bedrooms>[\d]+)(?: or more)? bedroom (?<type>[\w\s]+) with (?<bathrooms>[\d]+)(?: or more)? bathroom/)
   end
 end
