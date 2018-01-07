@@ -19,7 +19,7 @@ class ScrapeListingPage
   end
 
   def parsed_price
-    page.search('#ListingTitle_classifiedTitlePrice').text.strip.match(/\$([\d]+) per/)[1].to_f
+    page.search('#ListingTitle_classifiedTitlePrice').text.strip.match(/\$([\d,]+) per/)[1].gsub(',','').to_f
   end
 
   def listing_id

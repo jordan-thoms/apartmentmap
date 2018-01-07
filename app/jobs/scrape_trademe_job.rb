@@ -12,7 +12,7 @@ class ScrapeTrademeJob < ApplicationJob
 
     page = agent.submit(form, form.buttons.first)
 
-    page_limit = 2
+    page_limit = 5
     while page do
       page.search('.property-card-title').search('a').each do |node|
         href= node.attributes['href'].value
