@@ -24,6 +24,8 @@ end
 #  bathrooms          :integer          not null
 #  parsed_price       :decimal(, )      not null
 #  cached_image_urls  :string           is an Array
+#  expires_at         :datetime
+#  invalid_at         :datetime
 #
 # Indexes
 #

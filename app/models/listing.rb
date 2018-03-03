@@ -39,6 +39,7 @@ class Listing < ApplicationRecord
     listing.bedrooms = scraper.bedrooms
     listing.bathrooms = scraper.bathrooms
     listing.listing_type = scraper.listing_type
+    listing.updated_at = Time.now # Make sure updated_at always gets updated
     listing.save!
 
     # Download and attach images
@@ -77,6 +78,8 @@ end
 #  bathrooms          :integer          not null
 #  parsed_price       :decimal(, )      not null
 #  cached_image_urls  :string           is an Array
+#  expires_at         :datetime
+#  invalid_at         :datetime
 #
 # Indexes
 #
