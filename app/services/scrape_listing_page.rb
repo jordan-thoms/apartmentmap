@@ -1,6 +1,7 @@
 require 'mechanize'
 class ScrapeListingPage
   attr_reader :page_url
+  attr_reader :error
   
   def initialize(page_url)
     @page_url = page_url
@@ -17,6 +18,12 @@ class ScrapeListingPage
 
   def is_valid_listing?
     is_expired? || page.search('.property-title').text.strip.present?
+  rescue Mechanize::ResponseCodeError => e
+    if e.response_code.to_i < 500
+      return false
+    else
+      raise e
+    end
   end
 
   def listing_title
