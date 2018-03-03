@@ -14,6 +14,19 @@ class Listing < ApplicationRecord
 
   def self.from_trademe_scraper(scraper)
     listing = Listing.find_or_initialize_by(source: :trademe, source_listing_id: scraper.listing_id)
+
+    unless scraper.is_valid_listing?
+      listing.invalid_at = Time.now
+      listing.save!
+      return
+    end
+
+    if scraper.is_expired?
+      listing.expired_at = Time.now
+      listing.save!
+      return
+    end
+
     listing.title = scraper.listing_title
     listing.raw_price = scraper.listing_price
     listing.parsed_price = scraper.parsed_price

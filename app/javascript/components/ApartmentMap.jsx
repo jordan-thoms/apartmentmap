@@ -9,19 +9,31 @@ import ListingsService from '../services/ListingsService'
 import FilterPanel from './FilterPanel'
 import update from 'immutability-helper'
 
+
 class CustomMarker extends React.Component {
   handleClick = () => {
     this.props.onClick(this.props.value);
   }
 
   render() {
+    var icon = {url: '/markers/marker-red.png', scaledSize: new google.maps.Size(22,40), origin: new google.maps.Point(0, 0), anchor: new google.maps.Point(11, 40), labelOrigin: new google.maps.Point(11, 40) };
+
+    if(this.props.selected && this.props.favourite) {
+      icon = {url: '/markers/marker-yellow.png', scaledSize: new google.maps.Size(26,48), origin: new google.maps.Point(0, 0), anchor: new google.maps.Point(13, 48), labelOrigin: new google.maps.Point(11, 40) };
+    } else if(this.props.selected) {
+      icon = {url: '/markers/marker-red.png', scaledSize: new google.maps.Size(26,48), origin: new google.maps.Point(0, 0), anchor: new google.maps.Point(13, 48), labelOrigin: new google.maps.Point(11, 40) };
+    } else if (this.props.favourite) {
+      icon = {url: '/markers/marker-yellow.png', scaledSize: new google.maps.Size(22,40), origin: new google.maps.Point(0, 0), anchor: new google.maps.Point(11, 40), labelOrigin: new google.maps.Point(11, 40) };
+    } else if (this.props.visited) {
+      icon = {url: '/markers/marker-gray.png', scaledSize: new google.maps.Size(22,40), origin: new google.maps.Point(0, 0), anchor: new google.maps.Point(11, 40), labelOrigin: new google.maps.Point(11, 40) };
+    }
     return (
-      <Marker position={{ lat: this.props.position.lat, lng: this.props.position.lng }} onClick={this.handleClick} />
+      <Marker position={{ lat: this.props.position.lat, lng: this.props.position.lng }} onClick={this.handleClick} options={{icon: icon}} />
     );
   }
 
 }  
-
+// scaledSize:[22,40], origin: [0,0], anchor: [11,40], labelOrigin: [11,40]
 const MapInternal = compose(
     withProps({
       googleMapURL: "https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&use_slippy=true&key=AIzaSyDuigDIg_r4H8vUku7sT4FASBdRQfoMYa4",
@@ -61,7 +73,11 @@ const MapInternal = compose(
       options={{fullscreenControl: false}}
     >
       {Object.values(props.listings).map((listing) =>
-        <CustomMarker value={listing.id} key={listing.id} position={{ lat: listing.latitude, lng: listing.longitude }} onClick={props.onMarkerClick} />
+        {if(! listing.hidden) {
+          return <CustomMarker value={listing.id} key={listing.id} position={{ lat: listing.latitude, lng: listing.longitude }} onClick={props.onMarkerClick}
+            selected={listing == props.selectedListing} favourite={listing.favourite} visited={listing.visited}
+          />
+        }}
         )
       }
     </GoogleMap>
@@ -83,6 +99,7 @@ class ApartmentMap extends React.Component {
 
 
   handleMarkerClick = (listingId) => {
+    this.listingsService.setListingState(listingId, {visited: true})
     this.setState({selectedListing: this.state.listings[listingId]})
   }
 
@@ -97,6 +114,11 @@ class ApartmentMap extends React.Component {
 
   handleListingClose = () => {
     this.setState({selectedListing: null})
+  }
+
+
+  handleListingFavourite = () => {
+    this.listingsService.setListingState(this.state.selectedListing.id, {favourite: true})
   }
 
   onBoundsChanged = (bounds) => {
@@ -114,12 +136,14 @@ class ApartmentMap extends React.Component {
       <div style={{height: "100%"}}>
         <MapInternal
           listings={this.state.listings}
+          selectedListing={this.state.selectedListing}
           onMarkerClick={this.handleMarkerClick}
           onBoundsChanged={this.onBoundsChanged}
         />
         <ListingPanel
           listing={this.state.selectedListing}
           onClose={this.handleListingClose}
+          onFavourite={this.handleListingFavourite}
         />
         <FilterPanel
           filters={this.state.filters}

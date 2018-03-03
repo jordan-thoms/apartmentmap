@@ -10,6 +10,15 @@ class ScrapeListingPage
     @page ||= fetch_page
   end
 
+
+  def is_expired?
+    page.search('.expired-title').present?
+  end
+
+  def is_valid_listing?
+    is_expired? || page.search('#ListingTitle_title').text.strip.present?
+  end
+
   def listing_title
     page.search('#ListingTitle_title').text.strip
   end
@@ -19,7 +28,7 @@ class ScrapeListingPage
   end
 
   def parsed_price
-    page.search('#ListingTitle_classifiedTitlePrice').text.strip.match(/\$([\d,]+) per/)[1].gsub(',','').to_f
+    page.search('#ListingTitle_classifiedTitlePrice').text.strip.match(/\$([\d,]+) per/)&.[](1)&.gsub(',','')&.to_f
   end
 
   def listing_id

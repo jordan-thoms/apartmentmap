@@ -2,7 +2,13 @@ class ListingsController < ApplicationController
   FILTERABLE_ATTRIBUTES = ['bedrooms', 'bathrooms', 'parsed_price', 'listing_type']
 
   def index
-    json_params = JSON.parse(params[:json_params])
+    json_params = params[:json_params].present? ? JSON.parse(params[:json_params]) : nil
+
+    unless json_params 
+      head :no_content
+      return
+    end
+
     listing_query = Listing.all
 
     if json_params['bounds']
@@ -26,10 +32,6 @@ class ListingsController < ApplicationController
       end
     end
 
-    listings = {}
-    listing_query.each do |listing|
-      listings[listing.id] = ListingSerializer.new(listing).as_json
-    end
-    render json: listings
+    render json: listing_query
   end
 end

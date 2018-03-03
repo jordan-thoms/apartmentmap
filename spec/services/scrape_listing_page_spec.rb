@@ -190,6 +190,12 @@ describe ScrapeListingPage do
       end
     end
 
+    context "#is_expired?" do
+      it "returns false" do
+        expect(scrape.is_expired?).to eq(false)
+      end
+    end
+
     context "#listing_type" do 
       it "gives the listing type" do
         expect(scrape.listing_type).to eq('house')
@@ -225,6 +231,59 @@ describe ScrapeListingPage do
     context "#bathrooms" do
       it "gives the bathroom count" do
         expect(scrape.bathrooms).to eq(2)
+      end
+    end
+  end
+
+
+  context "with listing 1499068052" do
+    before do
+      stub_request(:get, "https://www.trademe.co.nz//property/residential-property-to-rent/auction-1499068052.htm").to_return(File.new('spec/fixtures/auction-1499068052.curl'))
+    end
+
+    let(:scrape) { ScrapeListingPage.new("https://www.trademe.co.nz//property/residential-property-to-rent/auction-1499068052.htm") }
+
+    context "#is_valid_listing" do
+      it "returns false" do
+        expect(scrape.is_valid_listing?).to eq(false)
+      end
+    end
+
+    context "#is_expired?" do
+      it "returns false" do
+        expect(scrape.is_expired?).to eq(false)
+      end
+    end
+
+    context "#parsed_price" do
+      it "returns nil" do
+        expect(scrape.parsed_price).to eq(nil)
+      end
+    end
+  end
+
+  context "with listing 1503511898" do
+    before do
+      stub_request(:get, "https://www.trademe.co.nz//property/residential-property-to-rent/auction-1503511898.htm").to_return(File.new('spec/fixtures/auction-1503511898.curl'))
+    end
+
+    let(:scrape) { ScrapeListingPage.new("https://www.trademe.co.nz//property/residential-property-to-rent/auction-1503511898.htm") }
+
+    context "#is_valid_listing?" do
+      it "returns true" do
+        expect(scrape.is_valid_listing?).to eq(true)
+      end
+    end
+
+    context "#is_expired?" do
+      it "returns true" do
+        expect(scrape.is_expired?).to eq(true)
+      end
+    end
+
+    context "#parsed_price" do
+      it "returns nil" do
+        expect(scrape.parsed_price).to eq(nil)
       end
     end
   end

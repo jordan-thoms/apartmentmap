@@ -1,5 +1,6 @@
 import axios from 'axios'
 import _ from 'lodash'
+import update from 'immutability-helper'
 
 export default class ListingsService {
   state = {
@@ -8,6 +9,15 @@ export default class ListingsService {
 
   constructor(apartment_map) {
     this.apartment_map = apartment_map;
+  }
+
+  setListingState = (listingId, new_state) => {
+    var updateMap = {}
+    updateMap[listingId] = {$merge: new_state}
+    var newListings = update(this.apartment_map.state.listings, updateMap)
+    this.apartment_map.updateListings(newListings)
+
+    localStorage.setItem("listing."+listingId, JSON.stringify(newListings[listingId]))
   }
 
   filterUpdated = () => {
@@ -35,7 +45,38 @@ export default class ListingsService {
         this.cancel_func = c;
       })
     }).then((response) => {
-      this.apartment_map.updateListings(response.data)
+      var listings = {}
+      response.data.map((listing) => {
+        var localData = localStorage.getItem("listing." + listing.id)
+
+        if(localData) {
+          try {
+            var data = JSON.parse(localData)
+            if (data.hidden) {
+              listing.hidden = true
+            } else {
+              listing.hidden = false
+            }
+
+            if (data.visited) {
+              listing.visited = true
+            } else {
+              listing.visited = false
+            }
+
+            if (data.favourite) {
+              listing.favourite = true
+            } else {
+              listing.favourite = false
+            }
+
+          } catch(err) { console.error(err) }
+        }
+
+        listings[listing.id] = listing
+      })
+
+      this.apartment_map.updateListings(listings)
     }, (error) => {
       if (axios.isCancel(error)) {
         console.log('Request canceled', error.message);

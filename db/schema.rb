@@ -59,11 +59,4 @@ ActiveRecord::Schema.define(version: 2018_01_07_012234) do
     t.index ["source", "source_listing_id"], name: "index_listings_on_source_and_source_listing_id", unique: true
   end
 
-  create_table "spatial_ref_sys", primary_key: "srid", id: :integer, default: nil, force: :cascade do |t|
-    t.string "auth_name", limit: 256
-    t.integer "auth_srid"
-    t.string "srtext", limit: 2048
-    t.string "proj4text", limit: 2048
-  end
-
 end

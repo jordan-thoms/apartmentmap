@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import { withStyles } from 'material-ui/styles';
 import CloseIcon from 'material-ui-icons/Close';
 import OpenInBrowserIcon from 'material-ui-icons/OpenInBrowser';
+import StarIcon from 'material-ui-icons/Star';
 
 import IconButton from 'material-ui/IconButton';
 import Divider from 'material-ui/Divider';
@@ -58,6 +59,9 @@ class ListingPanel extends React.Component {
             <Typography type="title" gutterBottom>
               {this.props.listing.title}, {this.props.listing.raw_price}
             </Typography>
+            <IconButton onClick={this.props.onFavourite}>
+              <StarIcon />
+            </IconButton>
             <IconButton onClick={this.openInBrowser}>
               <OpenInBrowserIcon />
             </IconButton>
