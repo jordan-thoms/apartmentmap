@@ -16,7 +16,7 @@ class ScrapeListingPage
   end
 
   def is_valid_listing?
-    is_expired? || page.search('#ListingTitle_title').text.strip.present?
+    is_expired? || page.search('.property-title').text.strip.present?
   end
 
   def listing_title

@@ -1,4 +1,6 @@
-class ListingSerializer < ActiveModel::Serializer
+class ListingSerializer
+  include FastJsonapi::ObjectSerializer
+  set_type :listing  # optional
   attributes :id, :source, :source_listing_id, :title, :raw_price, :raw_location, :full_description, :listing_attributes, :latitude, :longitude, :page_url, :image_urls
 end
 
@@ -19,10 +21,10 @@ end
 #  latitude           :float
 #  longitude          :float
 #  page_url           :string
-#  listing_type       :integer          not null
-#  bedrooms           :integer          not null
-#  bathrooms          :integer          not null
-#  parsed_price       :decimal(, )      not null
+#  listing_type       :integer
+#  bedrooms           :integer
+#  bathrooms          :integer
+#  parsed_price       :integer
 #  cached_image_urls  :string           is an Array
 #  expires_at         :datetime
 #  invalid_at         :datetime

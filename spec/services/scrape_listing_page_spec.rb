@@ -22,6 +22,12 @@ describe ScrapeListingPage do
       end
     end
 
+    context "#is_valid_listing?" do
+      it "returns true" do
+        expect(scrape.is_valid_listing?).to eq(true)
+      end
+    end
+
     context "#listing_title" do
       it "returns the title" do
         expect(scrape.listing_title).to eq("Green Bay, 2 bedrooms")

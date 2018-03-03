@@ -32,6 +32,6 @@ class ListingsController < ApplicationController
       end
     end
 
-    render json: listing_query
+    render json: ListingSerializer.new(listing_query).serializable_hash
   end
 end

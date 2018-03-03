@@ -21,10 +21,10 @@ end
 #  latitude           :float
 #  longitude          :float
 #  page_url           :string
-#  listing_type       :integer          not null
-#  bedrooms           :integer          not null
-#  bathrooms          :integer          not null
-#  parsed_price       :decimal(, )      not null
+#  listing_type       :integer
+#  bedrooms           :integer
+#  bathrooms          :integer
+#  parsed_price       :integer
 #  cached_image_urls  :string           is an Array
 #  expires_at         :datetime
 #  invalid_at         :datetime

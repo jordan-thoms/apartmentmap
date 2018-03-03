@@ -46,7 +46,7 @@ export default class ListingsService {
       })
     }).then((response) => {
       var listings = {}
-      response.data.map((listing) => {
+      response.data.data.map((listing) => {
         var localData = localStorage.getItem("listing." + listing.id)
 
         if(localData) {
@@ -72,8 +72,8 @@ export default class ListingsService {
 
           } catch(err) { console.error(err) }
         }
-
-        listings[listing.id] = listing
+        Object.assign(listing, listing.attributes);
+        listings[listing.id] = listing;
       })
 
       this.apartment_map.updateListings(listings)

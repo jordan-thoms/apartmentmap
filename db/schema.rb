@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_03_03_052141) do
+ActiveRecord::Schema.define(version: 2018_03_03_083712) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "pgcrypto"
@@ -51,10 +51,10 @@ ActiveRecord::Schema.define(version: 2018_03_03_052141) do
     t.float "latitude"
     t.float "longitude"
     t.string "page_url"
-    t.integer "listing_type", null: false
-    t.integer "bedrooms", null: false
-    t.integer "bathrooms", null: false
-    t.decimal "parsed_price", null: false
+    t.integer "listing_type"
+    t.integer "bedrooms"
+    t.integer "bathrooms"
+    t.integer "parsed_price"
     t.string "cached_image_urls", array: true
     t.datetime "expires_at"
     t.datetime "invalid_at"
