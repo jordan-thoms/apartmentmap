@@ -9,7 +9,7 @@ class ListingsController < ApplicationController
       return
     end
 
-    listing_query = Listing.all
+    listing_query = Listing.all.where(invalid_at: nil).where(expired_at: nil)
 
     if json_params['bounds']
       # listing_query = listing_query.where('latitude BETWEEN ? AND ?', json_params['bounds']['south'], json_params['bounds']['north']).where('longitude BETWEEN ? AND ?', json_params['bounds']['west'], json_params['bounds']['east'])
