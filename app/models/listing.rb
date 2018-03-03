@@ -22,7 +22,7 @@ class Listing < ApplicationRecord
     end
 
     if scraper.is_expired?
-      listing.expired_at = Time.now
+      listing.expires_at = Time.now
       listing.save!
       return
     end
