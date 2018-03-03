@@ -39,7 +39,7 @@ class ScrapeListingPage
   end
 
   def listing_id
-    page.search('#ListingTitle_ListingNumberContainer').text.strip.scan(/[0-9]+/).first ||   @page_url.match(/auction-([\d]+)/)&.[](1)
+    @page_url.match(/auction-([\d]+)/)&.[](1)
   end
 
   def raw_location
