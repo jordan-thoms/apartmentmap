@@ -286,6 +286,12 @@ describe ScrapeListingPage do
         expect(scrape.parsed_price).to eq(nil)
       end
     end
+
+    context "#listing_id" do
+      it "returns the id" do
+        expect(scrape.listing_id).to eq("1503511898")
+      end
+    end
   end
 
 end
