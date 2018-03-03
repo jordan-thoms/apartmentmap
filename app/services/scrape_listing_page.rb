@@ -20,19 +20,19 @@ class ScrapeListingPage
   end
 
   def listing_title
-    page.search('#ListingTitle_title').text.strip
+    page.search('.property-title').text.strip
   end
 
   def listing_price
-    page.search('#ListingTitle_classifiedTitlePrice').text.strip
+    page.search('.property-info .price').text.strip
   end
 
   def parsed_price
-    page.search('#ListingTitle_classifiedTitlePrice').text.strip.match(/\$([\d,]+) per/)&.[](1)&.gsub(',','')&.to_f
+    page.search('.property-info .price').text.strip.match(/\$([\d,]+) per/)&.[](1)&.gsub(',','')&.to_f
   end
 
   def listing_id
-    page.search('#ListingTitle_noStatusListingNumberContainer').text.strip.scan(/[0-9]+/).first ||   @page_url.match(/auction-([\d]+)/)&.[](1)
+    page.search('#ListingTitle_ListingNumberContainer').text.strip.scan(/[0-9]+/).first ||   @page_url.match(/auction-([\d]+)/)&.[](1)
   end
 
   def raw_location
@@ -77,7 +77,7 @@ class ScrapeListingPage
   end
   
   def image_urls
-    page.search('#listingPhotos').search('img').map do |node|
+    page.search('#PhotoBoxContainer').search('img').map do |node|
       node.attributes['src'].value.gsub('thumb', 'plus').gsub('tq', 'plus')
     end.select{|s| s.start_with? 'https://trademe.tmcdn.co.nz/photoserver'}.uniq
   end
